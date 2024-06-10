@@ -1,0 +1,1660 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Description
+1,Bulbasaur,Planta,Veneno,318,45,49,49,65,65,45,1,"Una rara semilla le fue plantada en el lomo al nacer.
+La planta brota y crece con este Pokémon."
+2,Ivysaur,Planta,Veneno,405,60,62,63,80,80,60,1,"Este Pokémon tiene un bulbo en el lomo. Dicen que,
+al absorber nutrientes, el bulbo se transforma en una
+flor grande."
+3,Venusaur,Planta,Veneno,525,80,82,83,100,100,80,1,"Llena su cuerpo de energía con los rayos solares que
+captan los anchos pétalos de su flor."
+4,Charmander,Fuego,,309,39,52,43,60,50,65,1,"La llama de su cola indica la fuerza vital de
+Charmander. Será brillante si está sano."
+5,Charmeleon,Fuego,,405,58,64,58,80,65,80,1,"Suele usar la cola para derribar a su rival. Cuando lo
+tira, se vale de sus afiladas garras para acabar con él."
+6,Charizard,Fuego,Volador,534,78,84,78,109,85,100,1,"Cuando lanza una descarga de fuego supercaliente, la
+roja llama de su cola brilla más intensamente."
+7,Squirtle,Agua,,314,44,48,65,50,64,43,1,"Se protege con su caparazón y luego contraataca
+lanzando agua a presión cuando tiene oportunidad."
+8,Wartortle,Agua,,405,59,63,80,65,80,58,1,"Si es golpeado, esconderá su cabeza. Aun así, su cola
+puede seguir golpeando."
+9,Blastoise,Agua,,530,79,83,100,85,105,78,1,"Para acabar con su enemigo, lo aplasta con el peso de
+su cuerpo. En momentos de apuro, se esconde en el
+caparazón."
+10,Caterpie,Bicho,,195,45,30,35,20,20,45,1,"Para protegerse despide un hedor horrible de sus
+antenas, con el que repele a sus enemigos."
+11,Metapod,Bicho,,205,50,20,55,25,25,30,1,"Su frágil cuerpo está recubierto de una coraza dura
+como el acero. Permanece quieto en su desarrollo."
+12,Butterfree,Bicho,Volador,395,60,45,50,90,80,70,1,"Adora el néctar de las flores. Puede localizar hasta las
+más pequeñas cantidades de polen."
+13,Weedle,Bicho,Veneno,195,40,35,30,20,20,50,1,"Suele habitar bosques y praderas. Tiene un afilado y
+venenoso aguijón de unos 5 cm encima de la cabeza."
+14,Kakuna,Bicho,Veneno,205,45,25,50,25,25,35,1,"Casi incapaz de moverse, este Pokémon solo puede
+endurecer su caparazón para protegerse."
+15,Beedrill,Bicho,Veneno,395,65,90,40,45,80,75,1,"Tiene 3 aguijones venenosos en sus patas y cola.
+Suelen pinchar a sus enemigos repetidas veces."
+16,Pidgey,Normal,Volador,251,40,45,40,35,35,56,1,"Muy común en bosques y selvas. Aletea al nivel del
+suelo para levantar la gravilla."
+17,Pidgeotto,Normal,Volador,349,63,60,55,50,50,71,1,"Tiene unas garras desarrolladas. Puede atrapar un
+Exeggcute y transportarlo desde una distancia de
+casi 100 km."
+18,Pidgeot,Normal,Volador,479,83,80,75,70,70,101,1,"Cuando caza, vuela muy deprisa a ras del agua y
+sorprende a inocentes presas como Magikarp."
+19,Rattata,Normal,,253,30,56,35,25,35,72,1,"Vive allí donde haya comida disponible. Busca todo
+el día, sin descanso, algo comestible."
+20,Raticate,Normal,,413,55,81,60,50,70,97,1,"Lima sus colmillos royendo objetos duros. Con ellos
+puede destruir incluso paredes de hormigón."
+21,Spearow,Normal,Volador,262,40,60,30,31,31,70,1,"Muy protector de su territorio, mueve sus cortas alas
+sin descanso para lanzarse a toda velocidad."
+22,Fearow,Normal,Volador,442,65,90,65,61,61,100,1,"Con sus enormes y magníficas alas, puede seguir
+volando sin tener que aterrizar para descansar."
+23,Ekans,Veneno,,288,35,60,44,40,54,55,1,"Cuanto más viejo, más crece este Pokémon. Por la
+noche, descansa en las ramas de los árboles."
+24,Arbok,Veneno,,438,60,85,69,65,79,80,1,"El dibujo que tiene en la panza aterroriza. Los rivales
+más débiles salen huyendo al verlo."
+25,Pikachu,Electrico,,320,35,55,40,50,50,90,1,"Levanta su cola para vigilar los alrededores. A veces,
+puede ser alcanzado por un rayo en esa pose."
+26,Raichu,Electrico,,485,60,90,55,90,80,110,1,"Cuando se carga de electricidad, sus músculos se
+tensan y se vuelve más agresivo de lo normal."
+27,Sandshrew,Tierra,,300,50,75,85,20,30,40,1,"Este Pokémon permanece bajo tierra. Si se siente
+amenazado, se enrosca para defenderse."
+28,Sandslash,Tierra,,450,75,100,110,45,55,65,1,"Si cava a gran velocidad, puede que se le caigan las
+garras y púas. Vuelven a crecerle en un día."
+29,NidoranF,Veneno,,275,55,47,52,40,40,41,1,"Aunque pequeñas, sus venenosas púas son muy
+peligrosas. Tienen un cuerno más pequeño que
+los machos."
+30,Nidorina,Veneno,,365,70,62,67,55,55,56,1,"Tiene un carácter afable. Emite ondas ultrasónicas
+para confundir al enemigo."
+31,Nidoqueen,Veneno,Tierra,505,90,92,87,75,85,76,1,"Usa su cuerpo duro y escamoso para sellar la entrada
+a su madriguera y protegerse de los depredadores."
+32,NidoranM,Veneno,,273,46,57,40,40,40,50,1,"Saca las orejas por encima de la hierba para explorar
+el territorio. Le protege su cuerno venenoso."
+33,Nidorino,Veneno,,365,61,72,57,55,55,65,1,"Levanta sus grandes orejas para vigilar. Si detecta
+algo, atacará de inmediato."
+34,Nidoking,Veneno,Tierra,505,81,102,77,85,75,85,1,"Es fácil reconocerlo por tener una dura piel y un gran
+cuerno lleno de peligrosísimo veneno."
+35,Clefairy,Hada,,323,70,45,48,60,65,35,1,"Se dice que la felicidad llegará a quien vea a un grupo
+de Clefairy bailando a la luz de la luna llena."
+36,Clefable,Hada,,483,95,70,73,95,90,60,1,"Su oído es tan agudo que puede oír una aguja caer a
+1 km. Vive en montañas solitarias."
+37,Vulpix,Fuego,,299,38,41,40,50,65,65,1,"Cuando nace solo tiene una cola, pero a medida que
+crece, esta se va dividiendo desde la punta."
+38,Ninetales,Fuego,,505,73,76,75,81,100,100,1,"Tiene nueve colas y un pelaje de color dorado.
+Dicen que este Pokémon llega a vivir 1000 años."
+39,Jigglypuff,Normal,Hada,270,115,45,20,45,25,20,1,"Cautiva con la mirada a su enemigo y hace que se
+quede profundamente dormido mientras entona una
+dulce melodía."
+40,Wigglytuff,Normal,Hada,435,140,70,45,85,50,45,1,"Su piel es tan suave que si dos de ellos se acurrucan
+juntos, no querrán separarse nunca."
+41,Zubat,Veneno,Volador,245,40,45,35,30,40,55,1,"Aunque carezca de ojos, puede detectar obstáculos
+con las ondas ultrasónicas que emite su boca."
+42,Golbat,Veneno,Volador,455,75,80,70,65,75,90,1,"Cuando ataque, seguirá chupando energía de su
+víctima, aunque pese tanto que ya no pueda volar."
+43,Oddish,Planta,Veneno,320,45,50,55,75,65,30,1,"Durante el día, se agazapa en el frío subsuelo huyendo
+del sol. La luz de la luna le hace crecer mucho."
+44,Gloom,Planta,Veneno,395,60,65,70,85,75,40,1,"¡Huele bastante mal! De todas formas, una de cada
+mil personas aprecian su fétido olor."
+45,Vileplume,Planta,Veneno,490,75,80,85,110,90,50,1,"Cuanto mayores son sus pétalos, más tóxico es su
+polen. Le pesa la cabeza y le cuesta mantenerla
+erguida."
+46,Paras,Bicho,Planta,285,35,70,55,45,55,25,1,"Lleva en el lomo dos setas parásitas llamadas
+tochukaso, que crecen con él."
+47,Parasect,Bicho,Planta,405,60,95,80,60,80,30,1,"Parasect está dominado por una seta parásita mayor
+que él. Dispersa esporas venenosas."
+48,Venonat,Bicho,Veneno,305,60,55,50,40,55,45,1,"Sus grandes ojos son en realidad grupos de ojos
+diminutos. Por la noche se siente atraído por la luz."
+49,Venomoth,Bicho,Veneno,450,70,65,60,90,75,90,1,"Lanza unas escamas que paralizan a cualquiera.
+Quien las toque, no podrá ni ponerse de pie."
+50,Diglett,Tierra,,265,10,55,25,35,45,95,1,"Vive un metro por debajo del suelo, donde se alimenta
+de raíces. También aparece en la superficie."
+51,Dugtrio,Tierra,,405,35,80,50,50,70,120,1,"En combate, cava la tierra, se esconde y sale de
+repente para golpear a su rival. Nunca se sabe por
+dónde puede aparecer."
+52,Meowth,Normal,,290,40,45,35,40,40,90,1,"Es de naturaleza nocturna. Le atraen los objetos
+brillantes."
+53,Persian,Normal,,440,65,70,60,65,65,115,1,"Aunque es muy admirado por el pelo, es difícil de
+entrenar como mascota, porque es un poco travieso."
+54,Psyduck,Agua,,320,50,52,48,65,50,55,1,"Padece continuamente dolores de cabeza. Cuando
+son muy fuertes, empieza a usar misteriosos poderes."
+55,Golduck,Agua,,500,80,82,78,95,80,85,1,"Aparece en ríos al anochecer. Puede usar poderes
+telequinéticos si su frente brilla misteriosamente."
+56,Mankey,Lucha,,305,40,80,35,35,45,70,1,"Es peligroso acercarse si se enfada sin razón aparente,
+ya que no distingue entre amigos y enemigos."
+57,Primeape,Lucha,,455,65,105,60,60,70,95,1,"Solo se calma cuando nadie está cerca. Llegar a ver
+ese momento es realmente difícil."
+58,Growlithe,Fuego,,350,55,70,45,70,50,60,1,"Es muy agradable y leal. Para ahuyentar al enemigo,
+se pone a ladrar y a dar bocados."
+59,Arcanine,Fuego,,555,90,110,80,100,80,95,1,"Un Pokémon muy admirado desde la antigüedad por
+su belleza. Corre ágilmente como si tuviera alas."
+60,Poliwag,Agua,,300,40,50,40,40,40,90,1,"Tiene una piel extraordinaria, fina y húmeda, que deja
+entrever las vísceras que tiene dispuestas en espiral."
+61,Poliwhirl,Agua,,385,65,65,65,50,50,90,1,"Capaz de vivir dentro o fuera del agua. Fuera del agua
+suda para mantener baboso su cuerpo."
+62,Poliwrath,Agua,Lucha,510,90,95,95,70,90,70,1,"Tiene músculos muy desarrollados. Es capaz de nadar
+en el océano sin descanso."
+63,Abra,Psiquico,,310,25,20,15,105,55,90,1,"Duerme 18 horas al día y mientras lo hace es capaz de
+usar una serie de poderes extrasensoriales."
+64,Kadabra,Psiquico,,400,40,35,30,120,70,105,1,"Cuando utiliza su poder psíquico, emite poderosas
+ondas alfa que pueden destruir dispositivos."
+65,Alakazam,Psiquico,,500,55,50,45,135,95,120,1,"Sus neuronas se multiplican continuamente durante su
+vida. Por eso, siempre lo recuerda todo."
+66,Machop,Lucha,,305,70,80,50,35,35,35,1,"Levanta un Graveler para mantener sus músculos en
+forma. Domina todas las artes marciales."
+67,Machoke,Lucha,,405,80,100,70,50,60,45,1,"Su musculoso cuerpo es tan fuerte que usa un cinto
+antifuerza para controlar sus movimientos."
+68,Machamp,Lucha,,505,90,130,80,65,85,55,1,"Tiene cuatro brazos tan bien desarrollados que puede
+dar una serie de 1000 puñetazos en cuestión de dos
+segundos."
+69,Bellsprout,Planta,Veneno,300,50,75,35,70,30,40,1,"Aunque su cuerpo es extremadamente delgado, es
+muy rápido a la hora de capturar sus presas."
+70,Weepinbell,Planta,Veneno,390,65,90,50,85,45,55,1,"Las hojas que tiene actúan como cuchillas en
+combate. Otra de sus armas es el corrosivo fluido
+que expulsa."
+71,Victreebel,Planta,Veneno,490,80,105,65,100,70,70,1,"Dicen que vive en grandes colonias en el interior de
+las junglas, aunque nadie ha podido verificarlo."
+72,Tentacool,Agua,Veneno,335,40,40,35,50,100,70,1,"Su cuerpo se compone casi en exclusiva de agua.
+Lanza extraños rayos con sus ojos cristalinos."
+73,Tentacruel,Agua,Veneno,515,80,70,65,80,120,100,1,"Cuando caza, extiende los cortos tentáculos que tiene
+para atrapar e inmovilizar a su presa."
+74,Geodude,Roca,Tierra,300,40,80,100,30,30,20,1,"Aparecen en llanos y montañas. Como parecen rocas,
+la gente se tropieza con ellos o los pisa."
+75,Graveler,Roca,Tierra,390,55,95,115,45,45,35,1,"De naturaleza descuidada y libre, no le importa
+dañarse cuando baja rodando montañas."
+76,Golem,Roca,Tierra,495,80,120,130,55,65,45,1,"Se lanza montaña abajo y deja un surco desde la cima
+hasta el pie. Es mejor mantenerse alejado."
+77,Ponyta,Fuego,,410,50,85,55,65,65,90,1,"Cuando nace, apenas puede tenerse en pie. Pero va
+fortaleciendo las patas en cuanto empieza a galopar."
+78,Rapidash,Fuego,,500,65,100,70,80,80,105,1,"Galopa a casi 240 km por hora. Su crin ardiente
+parece una flecha cuando corre."
+79,Slowpoke,Agua,Psiquico,315,90,65,65,40,40,15,1,"Descansa ocioso junto al agua. Si algo muerde su
+cola, no lo notará en todo el día."
+80,Slowbro,Agua,Psiquico,490,95,75,110,100,80,30,1,"Tiene una cola tan apetecible, que el Shellder que va
+enganchado a ella no se soltará por nada del mundo."
+81,Magnemite,Electrico,Acero,325,25,35,70,95,55,45,1,"Las unidades a los lados de su cuerpo generan
+energía antigravitatoria para mantenerlo en el aire."
+82,Magneton,Electrico,Acero,465,50,60,95,120,70,70,1,"Lo constituye un grupo de Magnemite. Descarga
+potentes ondas magnéticas de alto voltaje."
+83,Farfetch'd,Normal,Volador,352,52,65,55,58,62,60,1,"El puerro que lleva es su mejor arma. Suele usarlo
+como espada para cortar cosas."
+84,Doduo,Normal,Volador,310,35,85,45,35,35,75,1,"Este Pokémon de dos cabezas es el resultado de una
+mutación. Cuando corre, puede alcanzar casi 100 km
+por hora."
+85,Dodrio,Normal,Volador,460,60,110,70,60,60,100,1,"Más vale no perder de vista ninguna de las tres
+cabezas. De lo contrario, el número de picotazos
+será enorme."
+86,Seel,Agua,,325,65,45,55,45,70,45,1,"Este Pokémon vive en icebergs. Nada en el mar y usa
+el cuerno de su cabeza para romper el hielo."
+87,Dewgong,Agua,Hielo,475,90,70,80,70,95,70,1,"Está recubierto de un luminoso pelaje blanco. Este
+Pokémon aumenta su actividad cuando bajan las
+temperaturas."
+88,Grimer,Veneno,,325,80,80,50,40,50,25,1,"Nace de lodo alterado al filtrarse en el agua los
+rayos X reflejados por la Luna. Se alimenta de
+sustancias desagradables."
+89,Muk,Veneno,,500,105,105,75,65,100,50,1,"Les encanta reunirse en zonas apestosas donde se
+acumula el lodo, haciendo su olor más insoportable."
+90,Shellder,Agua,,305,30,65,100,45,25,40,1,"La concha lo protege de cualquier tipo de ataque.
+Solo es vulnerable cuando se abre."
+91,Cloyster,Agua,Hielo,525,50,95,180,85,45,70,1,"A los Cloyster que viven en las fuertes corrientes
+marinas les crecen largas y afiladas púas en la concha."
+92,Gastly,Fantasma,Veneno,310,30,35,30,100,35,80,1,"Su etéreo cuerpo está hecho de gas. Puede envolver
+a un oponente de cualquier tamaño hasta ahogarlo."
+93,Haunter,Fantasma,Veneno,405,45,50,45,115,55,95,1,"Cuando tienes la sensación de que te están
+observando, seguro que es porque Haunter está
+cerca."
+94,Gengar,Fantasma,Veneno,500,60,65,60,130,75,110,1,"Se esconde entre las sombras. Se dice que donde
+Gengar acecha, la temperatura baja 5 °C."
+95,Onix,Roca,Tierra,385,35,45,160,30,45,70,1,"Cava a gran velocidad en busca de comida. Los
+túneles que deja son usados por los Diglett."
+96,Drowzee,Psiquico,,328,60,48,45,43,90,42,1,"Adormece a sus enemigos y se come sus sueños.
+A veces se pone enfermo si come pesadillas."
+97,Hypno,Psiquico,,483,85,73,70,73,115,67,1,"Lleva un péndulo en la mano. Una vez, hizo
+desaparecer a un niño al que había hipnotizado."
+98,Krabby,Agua,,325,30,105,90,25,25,50,1,"Ante el peligro, se camufla con las burbujas que
+desprende su boca, para parecer más grande."
+99,Kingler,Agua,,475,55,130,115,50,50,75,1,"La pinza tan grande que tiene posee una fuerza de
+10 000 caballos de potencia. Pero, por su gran
+tamaño, cuesta moverla."
+100,Voltorb,Electrico,,330,40,30,50,55,55,100,1,"Fue descubierto cuando se crearon las Poké Balls.
+Se dice que tiene algo que ver con ellas."
+101,Electrode,Electrico,,480,60,50,70,80,80,140,1,"Explotan a la mínima. Por eso se les tiene mucho
+miedo. Estos Pokémon reciben el mote de Bomba Ball."
+102,Exeggcute,Planta,Psiquico,325,60,40,80,60,45,40,1,"Estos seis huevos se comunican por telepatía. Si se
+separan, se pueden reunir rápidamente."
+103,Exeggutor,Planta,Psiquico,520,95,95,85,125,65,55,1,"Sus tres cabezas piensan de forma independiente.
+Sin embargo, son amigas y no suelen discutir nunca."
+104,Cubone,Tierra,,320,50,50,95,40,50,35,1,"Lleva puesto el cráneo de su madre. Cuando se siente
+solo se pone a gritar muy fuerte."
+105,Marowak,Tierra,,425,60,80,110,50,80,45,1,"Es pequeño y siempre ha sido muy débil. Cuando
+empezó a usar huesos, se volvió más violento."
+106,Hitmonlee,Lucha,,455,50,120,53,35,110,87,1,"Encoge y estira las patas a su antojo. Cuando las
+estira, es capaz de propinar una buena patada al
+enemigo."
+107,Hitmonchan,Lucha,,455,50,105,79,35,110,76,1,"Los potentes golpes de sus brazos pueden pulverizar
+el hormigón. Descansa tras luchar tres minutos."
+108,Lickitung,Normal,,385,90,55,75,60,75,30,1,"Su larga lengua, recubierta de saliva pegajosa, se
+pega a todo, por lo que es muy útil."
+109,Koffing,Veneno,,340,40,65,95,60,45,35,1,"Tiene forma de globo y es muy ligero. Está compuesto
+por gases tóxicos y apesta."
+110,Weezing,Veneno,,490,65,90,120,85,70,60,1,"Si uno de los gemelos Koffing se infla, el otro se
+desinfla. Mezclan constantemente sus venenosos
+gases."
+111,Rhyhorn,Tierra,Roca,345,80,85,95,30,30,25,1,"Es muy fuerte, pero no especialmente listo. Es capaz
+de derribar rascacielos usando Placaje varias veces."
+112,Rhydon,Tierra,Roca,485,105,130,120,45,45,40,1,"La piel le sirve de escudo protector. Puede vivir en
+lava líquida a 2000 °C de temperatura."
+113,Chansey,Normal,,450,250,5,5,35,105,50,1,"Se dice que reparte felicidad. Se caracteriza por su
+compasión y reparte sus huevos entre la gente herida."
+114,Tangela,Planta,,435,65,55,115,100,40,60,1,"Se camufla con la multitud de lianas que envuelven su
+cuerpo y que no dejan de crecer a lo largo de toda su
+vida."
+115,Kangaskhan,Normal,,490,105,95,80,40,80,90,1,"Lleva a su cría en la bolsa de su panza. Solo deja que
+su cría salga a jugar cuando no siente peligro."
+116,Horsea,Agua,,295,30,40,70,70,25,60,1,"Es famoso por derribar a bichos voladores lanzando
+tinta desde la superficie del agua."
+117,Seadra,Agua,,440,55,65,95,95,45,85,1,"Las afiladas púas que le recubren el cuerpo se le
+erizan y pueden causar el debilitamiento con solo
+tocarlo."
+118,Goldeen,Agua,,320,45,67,60,35,50,63,1,"Nada a una velocidad de cinco nudos. Si siente
+peligro, golpea con su afilado cuerno."
+119,Seaking,Agua,,450,80,92,65,65,80,68,1,"En otoño, cuando se reproducen, se les puede ver
+nadando con energía por ríos y arroyos."
+120,Staryu,Agua,,340,30,45,55,70,55,85,1,"Aunque sus brazos se rompan podrán regenerarse,
+siempre y cuando su núcleo siga intacto."
+121,Starmie,Agua,Psiquico,520,60,75,85,100,85,115,1,"Su núcleo central brilla con los colores del arcoíris.
+Para algunos tiene el valor de una gema."
+122,Mr. Mime,Psiquico,Hada,460,40,45,65,100,120,90,1,"Para repeler ataques, solidifica el aire y crea muros
+invisibles con emanaciones de sus dedos."
+123,Scyther,Bicho,Volador,500,70,110,80,55,80,105,1,"Destroza a su presa con las guadañas que tiene.
+No es común que use las alas para volar."
+124,Jynx,Hielo,Psiquico,455,65,50,35,115,95,95,1,"Camina moviendo las caderas de forma llamativa.
+Puede hacer que la gente baile a su ritmo."
+125,Electabuzz,Electrico,,490,65,83,57,95,85,105,1,"Por la superficie de su piel corre la electricidad. En la
+oscuridad, su cuerpo se torna blanquecino."
+126,Magmar,Fuego,,495,65,95,57,100,85,93,1,"A este Pokémon se lo encontraron cerca de un volcán.
+Esta criatura ígnea tiene una temperatura corporal de
+unos 1200 °C."
+127,Pinsir,Bicho,,500,65,125,100,55,70,85,1,"Atrapa presas con sus pinzas hasta que las parte en
+dos. Lanza lejos lo que no puede quebrar."
+128,Tauros,Normal,,490,75,100,95,40,70,110,1,"Después de animarse a luchar fustigándose con sus
+tres colas, carga a toda velocidad."
+129,Magikarp,Agua,,200,20,10,55,15,20,80,1,"No es precisamente rápido ni fuerte. Es el Pokémon
+más debilucho y simplón de todos los que hay."
+130,Gyarados,Agua,Volador,540,95,125,79,60,100,81,1,"En la literatura antigua se dice que un Gyarados
+rebosante de violencia arrasó un poblado."
+131,Lapras,Agua,Hielo,535,130,85,80,85,95,60,1,"Son buenos de corazón. Muchos fueron capturados
+por ser tan pacíficos. Ahora hay muchos menos."
+132,Ditto,Normal,,288,48,48,48,48,48,48,1,"Puede alterar por completo su estructura celular para
+emular cualquier objeto que vea."
+133,Eevee,Normal,,325,55,55,50,45,65,55,1,"Un extraño Pokémon que se adapta a los entornos
+más hostiles gracias a sus diferentes evoluciones."
+134,Vaporeon,Agua,,525,130,65,60,110,95,65,1,"Prefiere las bellas costas. Con células parecidas al
+agua, podría fundirse en la misma."
+135,Jolteon,Electrico,,525,65,65,60,110,95,130,1,"Todos los pelos de su cuerpo se ponen de punta si
+empieza a cargarse de electricidad."
+136,Flareon,Fuego,,525,65,130,60,95,110,65,1,"Almacena llamas en su cuerpo, que alcanza una
+temperatura de 900 °C antes de un combate."
+137,Porygon,Normal,,395,65,60,70,85,75,40,1,"Pokémon creado por el hombre tras muchas
+investigaciones. Sus habilidades son básicas."
+138,Omanyte,Roca,Agua,355,35,40,100,90,55,35,1,"Pokémon prehistórico que vivió en el océano
+primordial. Para nadar se valía de sus 10 tentáculos."
+139,Omastar,Roca,Agua,495,70,60,125,115,70,55,1,"Tiene los tentáculos tan desarrollados que le sirven de
+manos y pies. Con ellos atrapa a su presa y le da un
+bocado."
+140,Kabuto,Roca,Agua,355,30,80,90,55,45,55,1,"Se cree que habitó las playas hace 300 millones de
+años. Se protege con una dura concha."
+141,Kabutops,Roca,Agua,495,60,115,105,65,70,80,1,"Repliega sus extremidades en el agua para hacerse
+más compacto, y mueve su concha para nadar rápido."
+142,Aerodactyl,Roca,Volador,515,80,105,65,60,75,130,1,"Se regeneró a partir de material genético de un
+dinosaurio encontrado en ámbar. Cuando vuela emite
+escandalosos alaridos."
+143,Snorlax,Normal,,540,160,110,65,65,110,30,1,"No se encuentra satisfecho hasta que no se come
+400 kg de comida cada día. Cuando acaba de comer,
+se queda dormido."
+144,Articuno,Hielo,Volador,580,90,85,100,95,125,85,1,"Legendario Pokémon pájaro capaz de generar
+ventiscas congelando la humedad del aire."
+145,Zapdos,Electrico,Volador,580,90,90,85,125,90,100,1,"Es un legendario pájaro Pokémon. Dicen que aparece
+entre las nubes lanzando enormes rayos brillantes."
+146,Moltres,Fuego,Volador,580,90,100,90,125,85,90,1,"Es más conocido como el legendario pájaro de fuego.
+Con cada aleteo crea brillantes llamas."
+147,Dratini,Dragon,,300,41,64,45,50,50,50,1,"Se le llama el Pokémon Espejismo porque son muy
+pocos los que lo han visto. Se encontró su muda."
+148,Dragonair,Dragon,,420,61,84,65,70,70,70,1,"Sus cristalinos orbes parecen darle al Pokémon el
+poder de controlar el clima libremente."
+149,Dragonite,Dragon,Volador,600,91,134,95,100,100,80,1,"A pesar del tamaño que tiene y de lo pesado que es,
+puede volar. Es capaz de dar la vuelta al mundo en
+solo 16 horas."
+150,Mewtwo,Psiquico,,680,106,110,90,154,90,130,1,"Fue creado por un científico tras años de horribles
+experimentos de ingeniería genética."
+151,Mew,Psiquico,,600,100,100,100,100,100,100,1,"Varios científicos lo consideran el antecesor de los
+Pokémon porque usa todo tipo de movimientos."
+152,Chikorita,Planta,,318,45,49,65,49,65,45,2,"Un dulce aroma se desprende de la hoja de su
+cabeza. Es dócil y le encanta absorber los rayos
+de sol."
+153,Bayleef,Planta,,405,60,62,80,63,80,60,2,"Emana un aroma picante de su cuello. El aroma actúa
+como estimulante para recuperar salud."
+154,Meganium,Planta,,525,80,82,100,83,100,80,2,"El olor que desprenden sus pétalos contiene una
+sustancia que calma el instinto agresivo."
+155,Cyndaquil,Fuego,,309,39,52,43,60,50,65,2,"Es un Pokémon muy tímido. Si se asusta, las llamas
+de su lomo arden con más fuerza."
+156,Quilava,Fuego,,405,58,64,58,80,65,80,2,"Antes de empezar a luchar, se gira ante su rival para
+alardear del alcance y la fuerza de sus llamas."
+157,Typhlosion,Fuego,,534,78,84,78,109,85,100,2,"Si su furia crece, se calienta tanto que cualquier cosa
+que toque se prenderá al instante."
+158,Totodile,Agua,,314,50,65,64,44,48,43,2,"Es pequeño pero violento. No dudará en morder
+cualquier cosa que se mueva cerca."
+159,Croconaw,Agua,,405,65,80,80,59,63,58,2,"Si pierde un colmillo, le crecerá otro en su lugar.
+Siempre tiene 48 colmillos en su boca."
+160,Feraligatr,Agua,,530,85,105,100,79,83,78,2,"Se suele mover lento, pero alcanza velocidades de
+vértigo al atacar y morder a sus enemigos."
+161,Sentret,Normal,,215,35,46,34,35,45,20,2,"Cuando hace de centinela, avisa del peligro a los
+demás, chillando y dando golpes al suelo con la cola."
+162,Furret,Normal,,415,85,76,64,45,55,90,2,"Acurruca a sus crías para que duerman. Acorrala a los
+enemigos con su enorme velocidad."
+163,Hoothoot,Normal,Volador,262,60,30,30,36,56,50,2,"Su percepción del tiempo es exacta. Ocurra lo que
+ocurra, lleva el ritmo moviendo la cabeza."
+164,Noctowl,Normal,Volador,442,100,50,50,76,96,70,2,"Sus ojos están especialmente adaptados.
+Concentran la luz para poder ver en la oscuridad."
+165,Ledyba,Bicho,Volador,265,40,20,30,40,80,55,2,"Cuando llega el frío, se reúnen muchos Ledyba de
+todas partes para darse calor."
+166,Ledian,Bicho,Volador,390,55,35,50,55,110,85,2,"Cuando parpadean las estrellas en el cielo nocturno,
+se mece desprendiendo un polvo brillante."
+167,Spinarak,Bicho,Veneno,250,40,60,40,40,40,30,2,"Teje su telaraña con hilo fino pero resistente. Espera
+pacientemente a que caiga su presa."
+168,Ariados,Bicho,Veneno,390,70,90,70,60,60,40,2,"Teje su telaraña desde atrás y desde su boca. Es muy
+difícil saber dónde está cada cual."
+169,Crobat,Veneno,Volador,535,85,90,80,70,80,130,2,"Es tan silencioso cuando vuela en la oscuridad con sus
+cuatro alas, que cuesta percibirlo cuando se acerca."
+170,Chinchou,Agua,Electrico,330,75,38,38,56,56,67,2,"En el oscuro fondo del océano, su único modo de
+comunicarse es emitiendo luces parpadeantes."
+171,Lanturn,Agua,Electrico,460,125,58,58,76,76,67,2,"La luz de Lanturn se puede ver desde lo más
+profundo. Se le llama la Estrella de Alta Mar."
+172,Pichu,Electrico,,205,20,40,15,35,35,60,2,"Cuando juegan, se tocan las colas y emiten chispas.
+Al parecer, es una prueba de valor."
+173,Cleffa,Hada,,218,50,25,28,45,55,15,2,"Por su inusual forma estrellada, la gente cree que
+procede de un meteorito que cayó a la tierra."
+174,Igglybuff,Normal,Hada,210,90,30,15,40,20,15,2,"Para caminar, en lugar de usar los pies que tiene, opta
+por dar botes con su cuerpo redondo y blandito."
+175,Togepi,Hada,,245,35,20,65,40,65,20,2,"El cascarón parece estar lleno de alegría. Dicen que
+trae buena suerte si es tratado con cariño."
+176,Togetic,Hada,Volador,405,55,40,85,80,105,40,2,"Si no está con gente amable, se entristece. Puede
+flotar en el aire sin mover las alas."
+177,Natu,Psiquico,Volador,320,40,50,45,70,45,70,2,"Va dando saltitos porque sus alas no han crecido lo
+suficiente. Siempre está pendiente de algo."
+178,Xatu,Psiquico,Volador,470,65,75,70,95,70,95,2,"Cuando se pone a meditar al amanecer, pierde la
+noción del tiempo. Puede pasarse así todo el día."
+179,Mareep,Electrico,,280,55,40,40,65,45,35,2,"Su pelaje lanudo dobla su volumen al acumular
+electricidad estática. Tocarlo puede dar calambre."
+180,Flaaffy,Electrico,,365,70,55,55,80,60,45,2,"Su esponjosa lana almacena electricidad. Su piel
+gomosa evita que sea electrocutado."
+181,Ampharos,Electrico,,510,90,75,85,115,90,55,2,"La punta de su cola reluce brillantemente y puede ser
+vista desde lejos. Es usado como faro."
+182,Bellossom,Planta,,490,75,80,95,90,100,50,2,"Los Bellossom suelen reunirse para bailar. Dicen que
+sus danzas son un ritual para invocar al sol."
+183,Marill,Agua,Hada,250,70,20,50,20,50,40,2,"Tiene una piel que repele el agua. De hecho, puede
+pasarse horas jugando en el agua sin mojarse."
+184,Azumarill,Agua,Hada,420,100,50,80,60,80,50,2,"Sus largas orejas son sensores que pueden percibir
+movimientos de seres vivos en el lecho del río."
+185,Sudowoodo,Roca,,410,70,100,115,30,65,30,2,"Aunque pretende ser un árbol, en su composición se
+parece más a una roca que a una planta."
+186,Politoed,Agua,,500,90,75,75,90,100,70,2,"Cuando tres o más de estos se juntan, emiten un
+sonido muy fuerte parecido a un bramido."
+187,Hoppip,Planta,Volador,250,35,35,40,35,55,50,2,"Su cuerpo es tan ligero, que debe agarrarse bien al
+suelo con las patas para no irse con el viento."
+188,Skiploom,Planta,Volador,340,55,45,50,45,65,80,2,"La flor de su cabeza se abre y cierra según suba o
+baje la temperatura."
+189,Jumpluff,Planta,Volador,460,75,55,70,55,95,110,2,"Los vientos estacionales lo llevan por todo el mundo,
+donde va soltando sus esporas."
+190,Aipom,Normal,,360,55,70,55,40,55,85,2,"Vive en lo alto de los árboles. Cuando salta de rama
+en rama, usa su cola para equilibrarse."
+191,Sunkern,Planta,,180,30,30,30,30,30,30,2,"Puede caer del cielo de repente. Si le ataca un
+Spearow, moverá violentamente sus hojas."
+192,Sunflora,Planta,,425,75,75,55,105,85,30,2,"A medida que se acerca el verano, va adquiriendo un
+color más vivo e intenso en los pétalos de la cara."
+193,Yanma,Bicho,Volador,390,65,65,45,75,45,95,2,"Su campo visual es de 360° sin girar la cabeza.
+Detecta hasta las presas que están a su espalda."
+194,Wooper,Agua,Tierra,210,55,45,45,25,25,15,2,"Este Pokémon vive en aguas frías. Sale del agua para
+buscar comida cuando refresca el ambiente."
+195,Quagsire,Agua,Tierra,430,95,85,85,65,65,35,2,"Es un Pokémon bastante perezoso. Para pescar
+permanece en el fondo del río con la boca abierta."
+196,Espeon,Psiquico,,525,65,65,60,130,95,110,2,"Al predecir el siguiente movimiento de su rival,
+chasquea el extremo de la cola bífida que tiene."
+197,Umbreon,Siniestro,,525,95,65,110,60,130,65,2,"Creado cuando la luz lunar alteró la estructura
+genética de Eevee. Busca presas en la oscuridad."
+198,Murkrow,Siniestro,Volador,405,60,85,42,85,42,91,2,"Esconde objetos brillantes en un lugar secreto.
+Meowth y Murkrow suelen saquear su escondite."
+199,Slowking,Agua,Psiquico,490,95,75,80,100,110,30,2,"Su intelecto e intuición son increíbles. No pierde la
+compostura en ninguna situación."
+200,Misdreavus,Fantasma,,435,60,60,60,85,85,85,2,"Se deleita con el miedo, que absorbe con sus esferas
+rojas. Por el día, duerme en la oscuridad."
+201,Unown,Psiquico,,336,48,72,48,72,48,48,2,"Su cuerpo fino y plano aparece siempre en los muros.
+Su forma parece tener algún significado."
+202,Wobbuffet,Psiquico,,405,190,33,58,33,58,33,2,"Odia la luz y las sacudidas. Si le atacan, infla su
+cuerpo para aumentar su contraataque."
+203,Girafarig,Normal,Psiquico,455,70,80,65,90,65,85,2,"Cuando duerme, la cabeza de su cola se queda
+vigilando, ya que ella no necesita dormir."
+204,Pineco,Bicho,,290,50,65,90,35,35,15,2,"Le gusta engrosar su coraza añadiendo cortezas de
+árbol. El aumento de peso no le molesta."
+205,Forretress,Bicho,Acero,465,75,90,140,60,60,40,2,"Se protege con su concha de acero de tal manera que
+solo se pueden ver sus ojos."
+206,Dunsparce,Normal,,415,100,70,70,65,65,45,2,"Este Pokémon escapa hacia atrás perforando el suelo
+con su cola, si es descubierto."
+207,Gligar,Tierra,Volador,430,65,75,105,35,65,85,2,"A veces se sujeta a los precipicios. Cuando divisa una
+presa, despliega sus alas y planea para atacar."
+208,Steelix,Acero,Tierra,510,75,85,200,55,65,30,2,"Su cuerpo es más duro que cualquier metal debido a la
+gran presión y calor de su hábitat."
+209,Snubbull,Hada,,300,60,80,50,40,40,30,2,"Muy travieso por naturaleza, a muchas mujeres les
+gusta jugar con él porque es muy cariñoso."
+210,Granbull,Hada,,450,90,120,75,60,60,45,2,"A pesar de su aspecto, es muy tímido. Sin embargo,
+cuando se enfada, ataca con sus colmillos."
+211,Qwilfish,Agua,Veneno,430,65,95,75,55,55,85,2,"Para arrojar sus venenosas púas, infla su cuerpo
+bebiendo hasta diez litros de agua de una sola vez."
+212,Scizor,Bicho,Acero,500,70,130,100,55,80,65,2,"Las pinzas que posee tienen acero. Con ellas, no hay
+nada que se le resista. Rompen todo lo que pillan."
+213,Shuckle,Bicho,Roca,505,20,10,230,10,230,5,2,"Las bayas que almacena en su caparazón con forma
+de tarro se convierten al final en un espeso zumo."
+214,Heracross,Bicho,Lucha,500,80,125,75,40,95,85,2,"Este fuerte Pokémon clava su preciado cuerno en la
+tripa del enemigo, lo eleva y luego lo arroja."
+215,Sneasel,Siniestro,Hielo,430,55,95,55,35,75,115,2,"Se alimenta de huevos robados en nidos. Clava sus
+afiladas garras en los puntos débiles de sus rivales."
+216,Teddiursa,Normal,,330,60,80,50,50,50,40,2,"Si encuentra miel, brillará la marca de su frente.
+Se lame las garras cuando están llenas de miel."
+217,Ursaring,Normal,,500,90,130,75,75,75,55,2,"Capaz de percibir cualquier tipo de aroma, encuentra
+sin problemas todo alimento enterrado bajo tierra."
+218,Slugma,Fuego,,250,40,40,40,70,40,20,2,"Asiduo a las zonas volcánicas, se desliza lentamente
+en busca de lugares calientes."
+219,Magcargo,Fuego,Roca,410,50,50,120,80,80,30,2,"En ocasiones, su resbaladiza concha lanza intensas
+llamaradas que recorren todo su cuerpo."
+220,Swinub,Hielo,Tierra,250,50,50,40,30,30,50,2,"Frota su hocico contra el suelo para desenterrar
+comida. A veces descubre aguas termales."
+221,Piloswine,Hielo,Tierra,450,100,100,80,60,60,50,2,"Aunque tiene las patas cortas, las fuertes pezuñas le
+permiten agarrarse bien al suelo, a pesar del hielo."
+222,Corsola,Agua,Roca,380,55,55,85,65,85,35,2,"Crece y muda continuamente. La parte superior de su
+cabeza es muy apreciada por su belleza."
+223,Remoraid,Agua,,300,35,65,35,65,35,65,2,"Tiene muy buena puntería. Dispara agua a sus presas,
+hasta si se están moviendo, a más de 100 metros."
+224,Octillery,Agua,,480,75,105,75,105,75,45,2,"Tiene querencia por los agujeros. Ataca escupiendo
+tinta metido en las grietas de rocas o en recipientes."
+225,Delibird,Hielo,Volador,330,45,55,45,65,45,75,2,"Transporta alimentos en su cola enrollada. Le gusta
+compartir su comida con los montañistas perdidos."
+226,Mantine,Agua,Volador,465,65,40,70,80,140,70,2,"Acumula velocidad nadando y puede saltar fuera del
+agua, alcanzando 100 metros de altura, para
+descender luego planeando."
+227,Skarmory,Acero,Volador,465,65,80,140,40,70,70,2,"Después de anidar en zarzas, las alas de sus polluelos
+crecen fortalecidas por los rasguños."
+228,Houndour,Siniestro,Fuego,330,45,60,30,80,50,65,2,"Al amanecer, resuena por la zona su inquietante
+aullido para anunciar que es su territorio."
+229,Houndoom,Siniestro,Fuego,500,75,90,50,110,80,95,2,"Hace mucho, la gente creía que sus horripilantes
+aullidos eran de la muerte personificada."
+230,Kingdra,Agua,Dragon,540,75,95,95,95,95,85,2,"Dicen que suele esconderse en cuevas submarinas.
+Puede crear torbellinos al bostezar."
+231,Phanpy,Tierra,,330,90,60,60,40,40,40,2,"Como muestra de afecto, golpea con su trompa.
+Aunque es tan fuerte que te mandará lejos."
+232,Donphan,Tierra,,500,90,120,120,60,60,50,2,"Tiene afilados y duros colmillos, y una gruesa piel.
+Su Placaje es tan fuerte que puede derribar una casa."
+233,Porygon2,Normal,,515,85,80,90,105,95,60,2,"La investigación mejoró sus habilidades. A veces,
+puede actuar de forma no programada."
+234,Stantler,Normal,,465,73,95,62,85,65,85,2,"Mirar a su cornamenta provoca una extraña sensación
+de pérdida de equilibrio."
+235,Smeargle,Normal,,250,55,20,35,20,45,75,2,"Marca su territorio usando su cola a modo de pincel.
+Ha hecho más de 5000 marcas diferentes."
+236,Tyrogue,Lucha,,210,35,35,35,35,35,35,2,"Ataca siempre con mucha energía. Para fortalecerse a
+sí mismo, sigue luchando aunque pierda."
+237,Hitmontop,Lucha,,455,50,95,95,35,110,70,2,"Gira a gran velocidad al luchar. La fuerza centrífuga
+multiplica su poder de destrucción por diez."
+238,Smoochum,Hielo,Psiquico,305,45,30,15,85,65,65,2,"Sus labios son la parte más sensible de su cuerpo.
+Siempre los usa para examinar las cosas."
+239,Elekid,Electrico,,360,45,63,37,65,55,95,2,"Genera electricidad girando los brazos. No obstante,
+es incapaz de almacenar la energía creada."
+240,Magby,Fuego,,365,45,75,37,70,55,83,2,"Es pequeño, pero su cuerpo puede llegar a alcanzar
+600 °C. Cuando inspira y espira, expulsa llamas por la
+nariz y por la boca."
+241,Miltank,Normal,,490,95,80,105,40,70,100,2,"Si tiene crías, la leche que produce contiene muchos
+más nutrientes de lo normal."
+242,Blissey,Normal,,540,255,10,10,75,135,55,2,"Los huevos que pone están llenos de felicidad. Solo
+con probar un poquito de uno, cualquiera sonríe."
+243,Raikou,Electrico,,580,90,85,75,115,100,115,2,"Las nubes de lluvia que lleva le permiten lanzar rayos
+a voluntad. Dicen que apareció con un rayo."
+244,Entei,Fuego,,580,115,115,85,90,75,100,2,"Un Pokémon que corre por la tierra. Dicen que siempre
+nace uno cuando aparece un nuevo volcán."
+245,Suicune,Agua,,580,100,75,115,90,115,85,2,"Recorre el mundo para purificar agua contaminada.
+Corre veloz con el viento del norte."
+246,Larvitar,Roca,Tierra,300,50,64,50,45,50,41,2,"Se alimenta de tierra. Después de comer una gran
+montaña, se duerme y empieza a crecer."
+247,Pupitar,Roca,Tierra,410,70,84,70,65,70,51,2,"Su cuerpo es duro como la roca. Se autopropulsa
+como un cohete soltando los gases de su interior."
+248,Tyranitar,Roca,Siniestro,600,100,134,110,95,100,61,2,"En una de sus poderosas garras tiene el poder de
+hacer temblar la tierra y las montañas."
+249,Lugia,Psiquico,Volador,680,106,90,130,90,154,110,2,"Duerme en una dorsal marina. Si bate sus alas, puede
+causar tormentas de 40 días."
+250,Ho-oh,Fuego,Volador,680,106,130,90,110,154,90,2,"Cuenta la leyenda que brilla en siete colores. Dicen
+que deja un arcoíris tras de sí al volar."
+251,Celebi,Psiquico,Planta,600,100,100,100,100,100,100,2,"Este Pokémon vaga por el tiempo. La hierba y los
+árboles crecen por los campos por donde pasa."
+252,Treecko,Planta,,310,40,45,35,65,55,70,3,"Escala superficies verticales muy rápido. Con la cola
+detecta la humedad y prevé el tiempo que va a hacer."
+253,Grovyle,Planta,,405,50,65,45,85,65,95,3,"Los desarrollados músculos que tiene en las
+extremidades inferiores le hacen ser muy ágil y le
+permiten dar grandes saltos."
+254,Sceptile,Planta,,530,70,85,65,105,85,120,3,"Las hojas de sus brazos pueden cortar gruesos
+árboles. Invencible en los combates en la jungla."
+255,Torchic,Fuego,,310,45,60,40,70,50,45,3,"En su interior, guarda una llama que arde sin cesar.
+Si se le abraza, se nota que tiene una temperatura
+muy alta."
+256,Combusken,Fuego,Lucha,405,60,85,60,85,60,55,3,"Su habilidad le permite dar diez patadas por segundo.
+Lanza potentes gritos para intimidar."
+257,Blaziken,Fuego,Lucha,530,80,120,70,110,70,80,3,"Puede saltar edificios de 30 plantas. Con sus golpes
+de fuego quema a sus rivales."
+258,Mudkip,Agua,,310,50,70,50,50,50,40,3,"Tiene una larga cola que le propulsa por el agua con
+mucha potencia. A pesar de ser pequeño, tiene mucha
+fuerza."
+259,Marshtomp,Agua,Tierra,405,70,85,70,60,70,50,3,"Sus piernas robustas impiden que pierda el equilibrio y
+caiga, incluso en el barro. Duerme bajo la arena."
+260,Swampert,Agua,Tierra,535,100,110,90,85,90,60,3,"Con sus brazos duros como el acero puede partir
+rocas gigantescas en mil pedazos de un solo golpe."
+261,Poochyena,Siniestro,,220,35,55,35,30,30,35,3,"Es muy persistente. Si se fija en una presa, no la
+dejará hasta que caiga agotada."
+262,Mightyena,Siniestro,,420,70,90,70,60,60,70,3,"Siempre obedece a los buenos Entrenadores. Está
+acostumbrado a vivir en jaurías en estado salvaje."
+263,Zigzagoon,Normal,,240,38,30,41,30,41,60,3,"Se mueve en zigzag. Se le da bien encontrar
+objetos ocultos en la hierba e incluso enterrados."
+264,Linoone,Normal,,420,78,70,61,50,61,100,3,"En línea recta corre a algo más de 100 km/h, pero no
+es tan hábil si hay curvas de por medio."
+265,Wurmple,Bicho,,195,45,45,35,20,30,20,3,"Le encanta comer hojas. Si le ataca un Starly, se
+defenderá con sus púas."
+266,Silcoon,Bicho,,205,50,35,55,25,25,15,3,"Se agarra con su seda a las ramas de un árbol y
+espera su evolución bebiendo agua de lluvia."
+267,Beautifly,Bicho,Volador,395,60,70,50,100,50,65,3,"Los dibujos de sus coloridas alas son muy peculiares.
+Liba el néctar de las flores con su fina trompa."
+268,Cascoon,Bicho,,205,50,35,55,25,25,15,3,"Está formado por seda que se endurece poco a
+poco. Si se resquebraja el capullo, está a punto
+de evolucionar."
+269,Dustox,Bicho,Veneno,385,60,50,70,50,90,65,3,"Pokémon nocturno. Atraído por las luces de la ciudad,
+se come las hojas y arbustos de las avenidas."
+270,Lotad,Agua,Planta,220,40,30,30,40,50,30,3,"Parece una planta acuática. Hace de ferry para los
+Pokémon que no saben nadar."
+271,Lombre,Agua,Planta,340,60,50,50,60,70,50,3,"Vive en el agua y, cuando hace sol, se queda en la
+orilla. De día duerme sobre las algas y de noche entra
+en acción."
+272,Ludicolo,Agua,Planta,480,80,70,70,90,100,70,3,"Cuando oye música alegre, sus músculos se llenan de
+energía, y no puede evitar ponerse a bailar."
+273,Seedot,Planta,,220,40,40,50,30,30,30,3,"Se cuelga de las ramas con el extremo de su cabeza.
+A veces se cae cuando soplan vientos fuertes."
+274,Nuzleaf,Planta,Siniestro,340,70,70,40,60,40,60,3,"Cuando usa la hoja de su cabeza como flauta, asusta
+a la gente. Vive en lo más profundo de los bosques."
+275,Shiftry,Planta,Siniestro,480,90,100,60,90,60,80,3,"Habita los bosques y se le tiene miedo. Es capaz
+de leer los pensamientos del rival y actuar en
+consecuencia."
+276,Taillow,Normal,Volador,270,40,55,30,30,30,85,3,"Es un Pokémon valiente que no teme a los rivales
+fuertes. Vuela en busca de climas templados."
+277,Swellow,Normal,Volador,430,60,85,60,50,50,125,3,"Cuando se encuentra bien, pone firmes las plumas de
+la cola doble que tiene. Remonta el vuelo de forma
+muy elegante."
+278,Wingull,Agua,Volador,270,40,30,30,55,30,85,3,"Sus largas alas aprovechan los vientos marinos para
+planear. Cuando descansa, las pliega."
+279,Pelipper,Agua,Volador,430,60,50,100,85,70,65,3,"Hunde su gran pico en el mar para sacar numerosas
+presas junto con mucha agua."
+280,Ralts,Psiquico,Hada,198,28,25,25,45,35,40,3,"Si sus cuernos perciben emociones positivas de
+personas o Pokémon, su cuerpo se calienta un poco."
+281,Kirlia,Psiquico,Hada,278,38,35,35,65,55,50,3,"Al percibir la alegría de su Entrenador refuerza sus
+ataques psicoquinéticos. Cuando está contento, da
+vueltas y baila."
+282,Gardevoir,Psiquico,Hada,518,68,65,65,125,115,80,3,"Para proteger a su Entrenador, emplea todo su poder
+psíquico en crear un pequeño agujero negro."
+283,Surskit,Bicho,Agua,269,40,30,32,50,52,65,3,"Vive en estanques, pero cuando se desata una
+tormenta puede aparecer en los charcos que se
+forman en las ciudades."
+284,Masquerain,Bicho,Volador,414,70,60,62,80,82,60,3,"Sus antenas tienen dibujos de ojos, mientras que sus
+alas le permiten volar en cualquier dirección."
+285,Shroomish,Planta,,295,60,40,60,40,60,35,3,"Prefiere los sitios húmedos. De día está tranquilamente
+en el bosque, a la sombra. Expulsa polvo tóxico por la
+cabeza."
+286,Breloom,Planta,Lucha,460,60,130,80,60,60,70,3,"Sus cortos brazos se expanden cuando da puñetazos.
+Tiene una técnica pugilística muy depurada."
+287,Slakoth,Normal,,280,60,60,60,35,35,30,3,"Slakoth se pasa todo el día holgazaneando y solo con
+verlo a uno le entra mucha pereza."
+288,Vigoroth,Normal,,440,80,80,80,55,55,90,3,"Su corazón palpita a un ritmo frenético, haciendo que
+su sangre bulla, así que no puede estarse quieto ni un
+segundo."
+289,Slaking,Normal,,670,150,160,100,95,65,100,3,"El Pokémon más perezoso del mundo. Cambia de lugar
+para coger la comida al alcance de su mano."
+290,Nincada,Bicho,Tierra,266,31,45,90,30,30,40,3,"Como se ha pasado casi toda la vida viviendo bajo
+tierra, no ve bien. Las antenas que tiene le ayudan
+a orientarse."
+291,Ninjask,Bicho,Volador,456,61,90,45,50,50,160,3,"Escuchar su zumbido de forma continuada provoca
+jaquecas. Casi no se le ve de lo rápido que es."
+292,Shedinja,Bicho,Fantasma,236,1,90,45,30,30,40,3,"Es el caparazón de un bicho que cobró vida. Si alguien
+lo mira por la espalda, le robará el alma."
+293,Whismur,Normal,,240,64,51,23,51,23,28,3,"Normalmente murmulla, pero cuando siente que hay
+peligro se pone a chillar. Solo para cuando se le
+cierran las orejas."
+294,Loudred,Normal,,360,84,71,43,71,43,48,3,"Aspira profundamente y luego, usando sus fuertes
+abdominales, suelta un potente vozarrón."
+295,Exploud,Normal,,490,104,91,63,91,73,68,3,"Su aullido se puede oír a 10 km. Emite todo tipo de
+sonidos desde los tubos de su cuerpo."
+296,Makuhita,Lucha,,237,72,60,30,20,30,25,3,"Endurece su cuerpo golpeando grandes árboles sin
+perder jamás el ánimo."
+297,Hariyama,Lucha,,474,144,120,60,40,60,50,3,"Para aumentar su fuerza, da un pisotón en el suelo.
+Puede lanzar un camión de 10 toneladas por los aires
+de un puñetazo."
+298,Azurill,Normal,Hada,190,50,20,40,20,40,20,3,"Vive cerca del agua. En la tierra se mueve muy rápido
+botando sobre su gran cola."
+299,Nosepass,Roca,,375,30,45,135,45,90,30,3,"Siempre apunta al norte con su nariz imantada. Con
+ella reviste su cuerpo de objetos metálicos para
+protegerse."
+300,Skitty,Normal,,260,50,45,45,35,35,50,3,"No puede evitar ir tras las cosas que se mueven.
+Hasta corre en círculos persiguiéndose la cola."
+301,Delcatty,Normal,,380,70,65,65,55,55,70,3,"No soporta los lugares sucios. Le encanta acicalarse
+el pelaje cuando está a gusto en un sitio."
+302,Sableye,Siniestro,Fantasma,380,50,75,75,65,65,50,3,"Se oculta en cavernas oscuras. De tanto comer gemas,
+sus ojos son piedras preciosas."
+303,Mawile,Acero,Hada,380,50,85,85,55,55,50,3,"Engaña con su aspecto dócil; hace que el rival se
+confíe y le da un mordisco con sus enormes e
+implacables mandíbulas."
+304,Aron,Acero,Roca,330,50,70,100,40,40,30,3,"Suele vivir en lugares inaccesibles de las montañas,
+pero el hambre lo empuja a comer raíles y coches."
+305,Lairon,Acero,Roca,430,60,90,140,50,50,40,3,"Le encanta comer hierro. Lucha por su territorio
+embistiendo a sus rivales con su cuerpo de acero."
+306,Aggron,Acero,Roca,530,70,110,180,60,60,50,3,"Hacen de toda una montaña su territorio. Cuantas más
+cicatrices tienen, más curtidos en disputas. ¡Mucha
+atención!"
+307,Meditite,Lucha,Psiquico,280,30,40,55,40,55,60,3,"Se entrena en la profundidad de las montañas. Cuando
+aumenta su poder espiritual con meditación, levita."
+308,Medicham,Lucha,Psiquico,410,60,60,75,60,75,80,3,"Evita los ataques moviéndose de forma elegante,
+como si bailara. Ataca dando un golpe devastador y
+moviéndose igual."
+309,Electrike,Electrico,,295,40,45,40,65,40,65,3,"Estimula sus músculos y aumenta sus reflejos con la
+electricidad que almacena su pelaje."
+310,Manectric,Electrico,,475,70,75,60,105,60,105,3,"No suele aparecer ante la gente. Dicen que suele
+colocar su nido donde caen los rayos."
+311,Plusle,Electrico,,405,60,50,40,85,75,95,3,"Anima a sus compañeros con pompones de chispas.
+Roba energía de los postes telefónicos."
+312,Minun,Electrico,,405,60,40,50,75,85,95,3,"La electricidad de Minun y Plusle es buena para la
+circulación y para desentumecer músculos."
+313,Volbeat,Bicho,,400,65,73,55,47,75,85,3,"Se comunica con otros iluminando su cola por la
+noche. Le encanta el suave aroma de Illumise."
+314,Illumise,Bicho,,400,65,47,55,73,75,85,3,"Con su dulce aroma guía a grupos de Volbeat para
+que tracen hasta 200 dibujos distintos en el cielo
+nocturno."
+315,Roselia,Planta,Veneno,400,50,60,45,100,80,65,3,"Ataca con sus manos, en las que tiene un tipo de
+veneno diferente en cada una. Cuanto más aroma,
+mejor salud tiene."
+316,Gulpin,Veneno,,302,70,43,53,43,53,40,3,"Sus sesos y corazón son diminutos; es casi todo
+estómago. Sus jugos gástricos disuelven lo que sea."
+317,Swalot,Veneno,,467,100,73,83,73,83,55,3,"Se traga cualquier cosa de una pieza. Sus poros
+segregan fluidos tóxicos que dañan a sus enemigos."
+318,Carvanha,Agua,Siniestro,305,45,90,20,65,20,65,3,"Atacan en grupo a los barcos y los hunden a base de
+bocados. Habitan en los ríos de la jungla."
+319,Sharpedo,Agua,Siniestro,460,70,120,40,95,40,95,3,"Con sus colmillos puede atravesar el acero. Nada a
+120 km/h. Le llaman el Terror de los Mares."
+320,Wailmer,Agua,,400,130,70,35,70,35,60,3,"Le gusta botar como una pelota de playa. Cuanta más
+agua de mar traga, más alto puede llegar."
+321,Wailord,Agua,,500,170,90,45,90,45,60,3,"Puede dejar fuera de combate a sus oponentes con el
+impacto de su enorme cuerpo al caer en el agua tras
+un salto."
+322,Numel,Fuego,Tierra,305,60,60,40,65,45,35,3,"En su joroba almacena magma ardiente que se enfría
+cuando llueve y lo ralentiza."
+323,Camerupt,Fuego,Tierra,460,70,100,70,105,75,40,3,"Los volcanes de su joroba entran en erupción cada
+10 años o cuando Camerupt se enfada mucho."
+324,Torkoal,Fuego,,470,70,85,140,85,70,20,3,"Trabaja sin descanso en minas en desuso localizando
+y extrayendo carbón."
+325,Spoink,Psiquico,,330,60,25,35,70,80,60,3,"Bota continuamente usando su cola como muelle.
+Salta para mantener el latido de su corazón."
+326,Grumpig,Psiquico,,470,80,45,65,90,110,80,3,"Las perlas negras aumentan sus poderes psíquicos.
+Controla las mentes de sus rivales con un extraño
+baile."
+327,Spinda,Normal,,360,60,60,60,60,60,60,3,"No hay dos Spinda que tengan idénticos pelajes.
+Su tambaleo al bailar confunde a los rivales."
+328,Trapinch,Tierra,,290,45,100,45,45,45,10,3,"Habita desiertos áridos. Cava fosas profundas, en las
+que espera que caiga su presa."
+329,Vibrava,Tierra,Dragon,340,50,70,50,50,50,70,3,"Al agitar a gran velocidad ambas alas, emite ondas
+ultrasónicas que provocan fuertes dolores de cabeza."
+330,Flygon,Tierra,Dragon,520,80,100,80,80,80,100,3,"Su medio es el desierto. Para esconderse, levanta
+arena con las patas. Tiene los ojos protegidos con
+mallas rojas."
+331,Cacnea,Planta,,335,50,85,40,85,40,35,3,"Vive en regiones secas y con pocas lluvias. Una vez al
+año, le brota una flor amarilla."
+332,Cacturne,Planta,Siniestro,475,70,115,60,115,60,55,3,"Es un Pokémon nocturno. Busca presas agotadas por
+el calor diurno del desierto."
+333,Swablu,Normal,Volador,310,45,40,60,40,75,50,3,"Se desconoce el porqué, pero le encanta posarse
+sobre la cabeza de los humanos y fingir que es un
+gorro."
+334,Altaria,Dragon,Volador,490,75,70,90,70,105,80,3,"Vuela pausadamente por el cielo azul. Su hermoso
+trino cautiva a todo aquel que lo escucha."
+335,Zangoose,Normal,,458,73,115,60,60,60,90,3,"Hace muchos años que se enfrenta a Seviper. Su arma
+más eficaz son sus zarpas afiladas."
+336,Seviper,Veneno,,458,73,100,60,100,60,65,3,"Hace frente a Zangoose con su agilidad y su afilada
+cola, que está cargada con un veneno letal."
+337,Lunatone,Roca,Psiquico,440,70,55,65,95,85,70,3,"Se piensa que está muy influido por las fases lunares,
+ya que solo actúa en noches de luna llena."
+338,Solrock,Roca,Psiquico,440,70,95,85,55,65,70,3,"Usa el sol como fuente de energía, por lo que es más
+poderoso de día. Brilla al rotar."
+339,Barboach,Agua,Tierra,288,50,48,43,46,41,60,3,"Recubre su cuerpo de una película viscosa que le
+permite escapar si alguien lo agarra."
+340,Whiscash,Agua,Tierra,468,110,78,73,76,71,60,3,"Habita en grandes pantanos. Si se acerca un enemigo,
+se alborota y causa temblores monumentales."
+341,Corphish,Agua,,308,43,80,65,50,35,35,3,"Por sucio o contaminado que esté el río, se adaptan
+rápido y se multiplican. Poseen una gran fuerza vital."
+342,Crawdaunt,Agua,Siniestro,468,63,120,85,90,55,55,3,"Este malandrín usa sus pinzas para atosigar y expulsar
+a los otros Pokémon que viven en su estanque."
+343,Baltoy,Tierra,Psiquico,300,40,40,55,40,70,55,3,"Se mueve girando sobre su eje. También se le puede
+ver girando cabeza abajo."
+344,Claydol,Tierra,Psiquico,500,60,70,105,70,120,75,3,"Este Pokémon es una vieja figurilla de barro que cobró
+vida mediante la exposición a extraños rayos de luz."
+345,Lileep,Roca,Planta,355,66,41,77,61,87,23,3,"Se extinguió hace 100 millones de años. Sus
+tentáculos parecen pétalos para atraer a sus presas."
+346,Cradily,Roca,Planta,495,86,81,97,81,107,43,3,"Vive en el fondo de los mares de aguas templadas.
+Emerge para cazar cuando baja la marea."
+347,Anorith,Roca,Bicho,355,45,95,50,40,50,75,3,"Es una especie de Pokémon predecesor. Estira las
+pinzas para cazar a sus presas, que se esconden en
+las rocas del mar."
+348,Armaldo,Roca,Bicho,495,75,125,100,70,80,45,3,"Ensarta a sus presas con sus gigantescas garras
+elásticas. Una fuerte coraza cubre su cuerpo."
+349,Feebas,Agua,,200,20,15,20,10,55,80,3,"Come de todo, por lo que puede vivir en aguas
+contaminadas. Nadie le presta atención."
+350,Milotic,Agua,,540,95,60,79,100,125,81,3,"Milotic es impresionantemente bello. Quienes lo ven,
+temen perder las ganas de luchar contra él."
+351,Castform,Normal,,420,70,70,70,70,70,70,3,"Sus células son muy sensibles a los cambios de
+temperatura y humedad y se adapta sin problema."
+352,Kecleon,Normal,,440,60,90,70,60,120,40,3,"Puede mudar el color de su cuerpo a voluntad, pero el
+dibujo en zigzag de su panza nunca desaparece."
+353,Shuppet,Fantasma,,295,44,75,35,63,33,45,3,"Dicen que con su cuerno se alimenta de sentimientos
+de celos y envidia. Es muy activo a medianoche."
+354,Banette,Fantasma,,455,64,115,65,83,63,65,3,"Este muñeco se convirtió en un Pokémon cuando lo
+tiraron a la basura. Busca a su antiguo dueño."
+355,Duskull,Fantasma,,295,20,40,90,30,90,25,3,"Persigue a su presa sin descanso allá donde vaya.
+No obstante, abandona la caza al amanecer."
+356,Dusclops,Fantasma,,455,40,70,130,60,130,25,3,"Si alguien mira los fuegos fatuos del interior de
+Dusclops, perderá su alma irremediablemente."
+357,Tropius,Planta,Volador,460,99,68,83,72,87,51,3,"Puede volar al agitar sus grandes hojas. Reparte entre
+los niños la codiciada fruta dulce que crece de su
+cuello."
+358,Chimecho,Psiquico,,425,65,50,70,95,80,65,3,"Se cuelga de ramas y aleros con la ventosa de su
+cabeza. Tiene siete tipos de gritos diferentes."
+359,Absol,Siniestro,,465,65,130,60,75,60,75,3,"Presiente desastres inminentes y se aparece a la gente
+para advertir del peligro."
+360,Wynaut,Psiquico,,260,95,23,48,23,48,23,3,"Suelen ir en grupo y a la hora de dormir se resguardan
+en una cueva."
+361,Snorunt,Hielo,,300,50,50,50,50,50,50,3,"Se dice que se reúnen en grupos bajo hojas
+gigantescas y viven allí en total armonía."
+362,Glalie,Hielo,,480,80,80,80,80,80,80,3,"Se protege con una armadura de hielo creada por
+congelación de la humedad del aire."
+363,Spheal,Hielo,Agua,290,70,40,50,55,50,25,3,"Como no saben nadar muy bien, se mueven
+rápidamente rodando. Cuando están alegres, dan
+palmadas con las aletas."
+364,Sealeo,Hielo,Agua,410,90,60,70,75,70,45,3,"Su nariz es muy sensible. Cuando ve algo por primera
+vez, lo toca con ella para recordarlo después."
+365,Walrein,Hielo,Agua,530,110,80,90,95,90,65,3,"Rompe el hielo con sus colmillos. Su gruesa capa de
+grasa le protege del frío y de los enemigos."
+366,Clamperl,Agua,,345,35,64,85,74,55,32,3,"Produce durante su vida una sola perla que aumenta
+los poderes psíquicos al evolucionar."
+367,Huntail,Agua,,485,55,104,105,94,75,52,3,"Vive en los abismos marinos, donde no se filtra la luz.
+Tiene una cola en forma de pez, que enciende para
+atraer a su presa."
+368,Gorebyss,Agua,,485,55,84,105,114,75,52,3,"Vive en el fondo del mar. En primavera, su cuerpo
+rosado adquiere colores más vivos."
+369,Relicanth,Agua,Roca,485,100,90,130,45,65,55,3,"No ha sufrido ningún cambio desde hace 100 millones
+de años. Fue descubierto durante una expedición
+marina."
+370,Luvdisc,Agua,,330,43,30,55,40,65,97,3,"Vive en mares cálidos. Se dice que, si una pareja lo
+encuentra, será bendecida con amor eterno."
+371,Bagon,Dragon,,300,45,75,60,40,30,50,3,"Su desarrollado cuello y su cabeza dura como el acero
+le permiten reducir a añicos rocas enormes."
+372,Shelgon,Dragon,,420,65,95,100,60,50,50,3,"Las células han empezado a cambiar dentro de su dura
+concha, que se separa cuando evoluciona."
+373,Salamence,Dragon,Volador,600,95,135,80,110,80,100,3,"Si se enfada, no hay forma de calmarlo; lo destruye
+todo lanzando arañazos y llamas."
+374,Beldum,Acero,Psiquico,300,40,55,80,35,60,30,3,"Los pulsos magnéticos de su cuerpo repelen la
+gravedad, lo que le permite flotar en el aire."
+375,Metang,Acero,Psiquico,420,60,75,100,55,80,50,3,"Lo forman dos Beldum unidos. Puede chocarse con un
+avión sin que su cuerpo de acero sufra ni un rasguño."
+376,Metagross,Acero,Psiquico,600,80,135,130,95,90,70,3,"Gracias a sus cuatro cerebros, es más inteligente que
+un superordenador y analiza con precisión al enemigo."
+377,Regirock,Roca,,580,80,100,200,50,100,50,3,"Su cuerpo está hecho de roca. Si se astilla durante el
+combate, emplea piedras para repararlo."
+378,Regice,Hielo,,580,80,50,100,100,200,50,3,"Dicen que ha yacido durmiendo en un glaciar durante
+milenios. Ni el magma puede derretir su cuerpo."
+379,Registeel,Acero,,580,80,75,150,75,150,50,3,"Su cuerpo ha estado sometido a la presión subterránea
+durante miles de años y no puede arañarse."
+380,Latias,Dragon,Psiquico,600,80,80,90,110,130,110,3,"Se comunica por telepatía. Su plumaje refleja la luz, lo
+que le permite hacerse invisible."
+381,Latios,Dragon,Psiquico,600,80,90,80,130,110,110,3,"Es un Pokémon muy inteligente. Puede adelantar a
+aviones a reacción plegando las alas."
+382,Kyogre,Agua,,670,100,100,90,150,140,90,3,"Pokémon legendario que aumentó los mares con
+diluvios y maremotos. Fue un enemigo acérrimo de
+Groudon."
+383,Groudon,Tierra,,670,100,150,140,100,90,90,3,"Dicen que este Pokémon legendario simboliza la tierra.
+Tras batirse en duelo con Kyogre se echó a dormir."
+384,Rayquaza,Dragon,Volador,680,105,150,90,150,90,95,3,"Vive en la capa de ozono sobre las nubes y no puede
+ser visto desde el suelo."
+385,Jirachi,Acero,Psiquico,600,100,100,100,100,100,100,3,"Desde antaño se dice que concederá los deseos
+escritos en las notas de su cabeza cuando se
+despierte."
+386,Deoxys,Psiquico,,600,50,150,50,150,50,150,3,"Surgió a raíz de la mutación de ADN de un virus
+alienígena que cayó a la Tierra en un meteorito."
+387,Turtwig,Planta,,318,55,68,64,45,55,31,4,"Realiza la fotosíntesis al bañarle los rayos de sol.
+Su concha está formada por tierra endurecida."
+388,Grotle,Planta,,405,75,89,85,55,65,36,4,"Vive en los bosques cerca del agua. Por el día, sale a
+que les dé el sol a las plantas de su espalda."
+389,Torterra,Planta,Tierra,525,95,109,105,75,85,56,4,"Las gentes de antaño creían que el planeta se
+sustentaba en la espalda de un gran Torterra."
+390,Chimchar,Fuego,,309,44,58,44,58,44,61,4,"El gas de su panza alimenta el fuego de su parte
+trasera, que ni la lluvia puede extinguir."
+391,Monferno,Fuego,Lucha,405,64,78,52,78,52,81,4,"Controla hábilmente la intensidad del fuego de su cola
+para mantener al enemigo a una distancia ideal."
+392,Infernape,Fuego,Lucha,534,76,104,71,104,71,108,4,"Su corona de fuego demuestra su naturaleza ígnea.
+Nadie le gana en velocidad."
+393,Piplup,Agua,,314,53,51,53,61,56,40,4,"No le gusta que lo cuiden. Como no aprecia el apoyo
+de su Entrenador, le cuesta coger confianza con él."
+394,Prinplup,Agua,,405,64,66,68,81,76,50,4,"Vive solo, alejado de los demás. Cada uno piensa que
+es el más importante."
+395,Empoleon,Agua,Acero,530,84,86,88,111,101,60,4,"Nada tan rápido como un fueraborda. Con los
+afilados bordes de sus alas puede cortar el hielo."
+396,Starly,Normal,Volador,245,40,55,30,30,30,60,4,"Viaja en grandes bandadas. Aunque es pequeño,
+agita las alas con gran fuerza."
+397,Staravia,Normal,Volador,340,55,75,50,40,40,80,4,"Vive siempre en grandes grupos y las disputas dentro
+de ellos son muy intensas."
+398,Staraptor,Normal,Volador,485,85,120,70,50,60,100,4,"Sus alas y sus patas son muy fuertes. Puede llevarse
+volando Pokémon pequeños."
+399,Bidoof,Normal,,250,59,45,40,35,40,31,4,"Tiene nervios de acero y nada puede perturbarlo.
+Es más ágil y activo de lo que aparenta."
+400,Bibarel,Normal,Agua,410,79,85,60,55,60,71,4,"Con sus incisivos roe ramas y raíces y las apila para
+construir sus madrigueras junto al río."
+401,Kricketot,Bicho,,194,37,25,41,25,41,25,4,"Hablan entre sí chocando las antenas. Los sonidos
+producidos son muy característicos."
+402,Kricketune,Bicho,,384,77,85,51,55,51,65,4,"Cuando llora, cruza sus brazos con forma de cuchillo.
+Puede improvisar melodías."
+403,Shinx,Electrico,,263,45,65,34,40,34,45,4,"La extensión y contracción de sus músculos genera
+electricidad. Brilla cuando está en peligro."
+404,Luxio,Electrico,,363,60,85,49,60,49,60,4,"Sus garras emiten electricidad que puede debilitar a
+sus rivales. Viven en grupos pequeños."
+405,Luxray,Electrico,,523,80,120,79,95,79,70,4,"Cuando sus ojos brillan como el oro, puede ver presas
+escondidas, incluso detrás de un muro."
+406,Budew,Planta,Veneno,280,40,30,35,50,70,55,4,"Vive cerca de aguas cristalinas. Su cabello se abre y
+esparce polen cuando le bañan los rayos del sol."
+407,Roserade,Planta,Veneno,515,60,70,65,125,105,90,4,"Atrae a sus presas con una dulce fragancia y usa sus
+cepas venenosas para atenazarlas y acabar con ellas."
+408,Cranidos,Roca,,350,67,125,40,30,30,58,4,"Fue recreado a partir de un fósil con forma esférica.
+Derriba a las presas a cabezazos."
+409,Rampardos,Roca,,495,97,165,60,65,50,58,4,"Tiene sesos pequeños porque su duro cráneo, que
+soporta cualquier golpe, les impide desarrollarse."
+410,Shieldon,Roca,Acero,350,30,42,118,42,88,30,4,"Se abrillanta la cara frotándola contra los árboles.
+Es vulnerable a los ataques por la espalda."
+411,Bastiodon,Roca,Acero,495,60,52,168,47,138,30,4,"Se alineaban y creaban una barrera que ningún
+enemigo podía cruzar. Así protegían a sus crías."
+412,Burmy,Bicho,,224,40,29,45,29,45,36,4,"Para protegerse de los vientos fríos invernales, se
+cubre con un caparazón de ramas y hojas."
+413,Wormadam,Bicho,Planta,424,60,59,85,79,105,36,4,"Su apariencia varía según dónde evolucione. Los
+materiales que haya pasan a formar parte de su
+cuerpo."
+414,Mothim,Bicho,Volador,424,70,94,50,94,50,66,4,"Le encanta la miel de las flores y roba la que recoge
+Combee."
+415,Combee,Bicho,Volador,244,30,30,42,30,42,70,4,"El trío se forma al nacer y se pasa la vida recogiendo
+miel de las flores para satisfacer a Vespiquen."
+416,Vespiquen,Bicho,Volador,474,70,80,102,80,102,40,4,"Cría larvas en los panales de su cuerpo. Segrega
+diversas feromonas de su cuerpo con las cuales
+controla a sus crías."
+417,Pachirisu,Electrico,,405,60,45,70,45,90,95,4,"Crea bolas de pelo que crepitan con electricidad
+estática. Las almacena en agujeros de árboles."
+418,Buizel,Agua,,330,55,65,35,60,30,85,4,"Nada rotando sus dos colas a modo de tornillo.
+Cuando bucea, el flotador se pliega."
+419,Floatzel,Agua,,495,85,105,55,85,50,115,4,"Nada gracias a su flotador. Ayuda en los rescates de
+gente que se está ahogando."
+420,Cherubi,Planta,,275,45,35,45,62,53,35,4,"Bajo la luz solar es rojo. La esfera pequeña pierde sus
+nutrientes y se seca para anunciar la evolución."
+421,Cherrim,Planta,,450,70,60,70,87,78,85,4,"Cuando los rayos de sol inundan su capullo, abre de
+par en par sus pétalos y se vuelve muy dinámico."
+422,Shellos,Agua,,325,76,48,48,57,62,34,4,"No hay que apretarle muy fuerte, ya que, si lo haces,
+secreta un misterioso fluido morado."
+423,Gastrodon,Agua,Tierra,475,111,83,68,92,82,39,4,"Si se ve amenazado por sus enemigos naturales,
+segrega un líquido morado y huye rápidamente."
+424,Ambipom,Normal,,482,75,100,66,60,66,115,4,"Habitan en grandes colonias y forman anillos uniendo
+sus colas, aparentemente en signo de amistad."
+425,Drifloon,Fantasma,Volador,348,90,50,34,60,44,70,4,"Está formado por los espíritus de personas y Pokémon.
+Le encantan las estaciones húmedas."
+426,Drifblim,Fantasma,Volador,498,150,80,44,90,54,80,4,"Transporta a gente y a Pokémon volando, pero, como
+se deja llevar, puede acabar en cualquier sitio."
+427,Buneary,Normal,,350,55,66,44,44,56,85,4,"Lleva las orejas enrolladas. Cuando las extiende,
+golpea con tal fuerza que incluso puede romper rocas."
+428,Lopunny,Normal,,480,65,76,84,54,96,105,4,"Este Pokémon resulta muy precavido. Si siente peligro,
+escapa corriendo a grandes saltos."
+429,Mismagius,Fantasma,,495,60,60,60,105,105,105,4,"Recita cánticos. Algunos de ellos atormentan a sus
+rivales, mientras que otros producen felicidad."
+430,Honchkrow,Siniestro,Volador,505,100,125,52,105,52,71,4,"Si uno lanza un grito profundo, los demás acuden.
+Por eso se le llama también Invocador de la Noche."
+431,Glameow,Normal,,310,49,55,42,42,37,85,4,"Araña cuando está enfadado y ronronea cuando está
+cariñoso. Su imprevisibilidad es famosa."
+432,Purugly,Normal,,452,71,82,64,64,59,112,4,"Si se siente a gusto, no tiene ningún reparo en
+apropiarse de las moradas de otros Pokémon."
+433,Chingling,Psiquico,,285,45,30,50,65,50,45,4,"Emite un tintineo cada vez que salta. Ensordece a sus
+rivales con sonidos de alta frecuencia."
+434,Stunky,Veneno,Siniestro,329,63,63,47,41,41,74,4,"Expulsa un fluido maloliente por sus cuartos traseros.
+El hedor repele Pokémon en un radio de 2 km."
+435,Skuntank,Veneno,Siniestro,479,103,93,67,71,61,84,4,"Para atacar, emite un fluido maloliente por la punta de
+su cola que puede llegar a más de 50 m."
+436,Bronzor,Acero,Psiquico,300,57,24,86,24,86,23,4,"Se dice que brilla y refleja la verdad al pulirlo,
+aunque es algo que detesta."
+437,Bronzong,Acero,Psiquico,500,67,89,116,79,116,33,4,"Desde antaño se adora a este Pokémon para que
+propicie lluvias abundantes. A veces se esconde bajo
+tierra."
+438,Bonsly,Roca,,290,50,80,95,10,45,10,4,"Prefiere entornos áridos. Sus ojos expulsan agua para
+ajustar los niveles de fluido corporal."
+439,Mime Jr.,Psiquico,Hada,310,20,25,45,70,90,60,4,"Desconcierta a sus rivales imitando sus movimientos a
+la perfección y aprovecha para darse a la fuga."
+440,Happiny,Normal,,220,100,5,5,15,65,30,4,"Les da a sus amigos una roca con forma de huevo que
+transporta en la bolsa de su panza."
+441,Chatot,Normal,Volador,411,76,65,45,92,42,91,4,"Imita los sonidos de sus rivales, haciéndoles creer que
+son amigos e impidiendo que le ataquen."
+442,Spiritomb,Fantasma,Siniestro,485,50,92,108,92,108,35,4,"Se formó a partir de 108 espíritus. Está unido a la
+fisura de una piedra angular mística."
+443,Gible,Dragon,Tierra,300,58,70,45,40,45,42,4,"Vive en agujeros en las cuevas, al amparo del calor
+geotérmico. Si se acerca un enemigo, le muerde."
+444,Gabite,Dragon,Tierra,410,68,90,65,50,55,82,4,"Le gustan las cosas brillantes. Busca tesoros en
+cuevas y se lleva el botín a su nido."
+445,Garchomp,Dragon,Tierra,600,108,130,95,80,85,102,4,"Cuando despliega su cuerpo y sus alas, parece un
+avión a reacción. Vuela a velocidad sónica."
+446,Munchlax,Normal,,390,135,85,40,40,85,5,4,"Esconde comida bajo el largo pelo de su cuerpo, pero
+más tarde lo olvida."
+447,Riolu,Lucha,,285,40,70,40,35,40,60,4,"Se comunica con los suyos mediante la emisión de
+unas ondas que cambian de forma en función de los
+sentimientos."
+448,Lucario,Lucha,Acero,525,70,110,70,115,70,90,4,"Puede leer los pensamientos y movimientos de su
+adversario a través de su aura."
+449,Hippopotas,Tierra,,330,68,72,78,38,42,32,4,"Vive en zonas áridas. En lugar de sudar, su cuerpo
+expulsa granos de arena."
+450,Hippowdon,Tierra,,525,108,112,118,68,72,47,4,"Hace gala de su fuerza abriendo su enorme boca.
+Para atacar levanta gran cantidad de arena."
+451,Skorupi,Veneno,Bicho,330,40,50,90,30,55,65,4,"Agarra a sus presas con las pinzas de la cola y les
+inyecta veneno. Espera hasta que hace efecto."
+452,Drapion,Veneno,Siniestro,500,70,90,110,60,75,95,4,"Aunque sabe que puede aplastar al rival con su gran
+fuerza, le gusta dar el golpe de gracia con su virulento
+veneno."
+453,Croagunk,Veneno,Lucha,300,48,61,40,61,40,50,4,"Tiene bolsas venenosas en las mejillas. Pilla
+desprevenidos a sus rivales para pincharles."
+454,Toxicroak,Veneno,Lucha,490,83,106,65,86,65,85,4,"Almacena veneno en una bolsa de la garganta. Cuando
+croa, este se agita para lograr mayor potencia."
+455,Carnivine,Planta,,454,74,100,72,90,72,46,4,"Atrae a sus presas con saliva de olor dulce y las
+mastica. Tarda todo un día en comérselas."
+456,Finneon,Agua,,330,49,49,56,49,61,66,4,"La línea que le recorre el costado puede almacenar
+luz solar. Brilla con mucha fuerza por la noche."
+457,Lumineon,Agua,,460,69,69,76,69,86,91,4,"Vive en las profundidades marinas. Atrae a sus presas
+con parpadeos del dibujo de sus cuatro aletas."
+458,Mantyke,Agua,Volador,345,45,20,50,60,120,50,4,"Los símbolos de su espalda cambian según la región.
+A veces se mezcla con bancos de Remoraid y nada
+junto a ellos."
+459,Snover,Planta,Hielo,334,60,62,50,62,60,40,4,"En las estaciones frías baja al pie de la montaña, pero
+regresa a las cimas nevadas en primavera."
+460,Abomasnow,Planta,Hielo,494,90,92,75,92,85,60,4,"Genera ventiscas con las que cubre de nieve grandes
+áreas. Se le llama el Monstruo de Hielo."
+461,Weavile,Siniestro,Hielo,510,70,120,65,45,85,125,4,"Vive en zonas nevadas. Deja marcas en los árboles
+con sus garras para comunicarse con sus compañeros."
+462,Magnezone,Electrico,Acero,535,70,70,115,130,90,60,4,"Emiten campos magnéticos tan potentes que se atraen
+entre sí e incluso pueden llegar a inmovilizarse."
+463,Lickilicky,Normal,,515,110,85,95,80,95,50,4,"Agarra cosas con su lengua extensible. Si te acercas
+mucho, te deja lleno de babas."
+464,Rhyperior,Tierra,Roca,535,115,140,130,55,55,40,4,"Lanza Geodude por los agujeros de las manos.
+Gracias a Protector resiste erupciones volcánicas."
+465,Tangrowth,Planta,,535,100,100,125,110,50,50,4,"Atrapa a su presa desplegando las ramas de sus
+brazos, que no le importa perder ante depredadores."
+466,Electivire,Electrico,,540,75,123,67,95,85,95,4,"Al almacenar mucha electricidad, desprende chispas de
+una claridad increíble entre sus dos cuernos."
+467,Magmortar,Fuego,,540,75,95,67,125,95,83,4,"Sus brazos disparan bolas de fuego de más de
+2000 °C. Vive en cráteres volcánicos."
+468,Togekiss,Hada,Volador,545,85,50,95,120,115,80,4,"Se dice que aparece en zonas pacíficas y las bendice
+con sus dones."
+469,Yanmega,Bicho,Volador,515,86,76,86,116,56,95,4,"Su técnica favorita consiste en volar a gran velocidad
+y despedazar con su mandíbula a su oponente en un
+instante."
+470,Leafeon,Planta,,525,65,110,130,60,65,95,4,"En días soleados duerme y hace la fotosíntesis,
+emitiendo aire puro a su alrededor."
+471,Glaceon,Hielo,,525,65,60,110,130,95,65,4,"Controla su temperatura corporal para congelar el
+ambiente y causar ráfagas de nieve en polvo."
+472,Gliscor,Tierra,Volador,510,75,95,125,45,75,95,4,"Espera a sus presas colgado de una rama bocabajo.
+Cuando llega su oportunidad, se lanza en picado."
+473,Mamoswine,Hielo,Tierra,530,110,130,80,70,60,80,4,"Ya existía en la antigüedad. Se encontró uno bajo
+hielo de hace más de 10 000 años."
+474,Porygon-Z,Normal,,535,85,80,70,135,75,90,4,"Se le instaló un software para mejorarlo. Sin embargo,
+comenzó a comportarse de manera extraña."
+475,Gallade,Psiquico,Lucha,518,68,125,65,65,115,80,4,"Puede presentir los movimientos de sus rivales y por
+eso ataca siempre antes que ellos."
+476,Probopass,Roca,Acero,525,60,55,145,75,150,40,4,"Emana un fuerte magnetismo. Controla tres pequeñas
+unidades llamadas mininarices."
+477,Dusknoir,Fantasma,,525,45,100,135,65,135,45,4,"Se dice que recoge en su cuerpo flexible a los
+espíritus extraviados y los guía hasta casa."
+478,Froslass,Hielo,Fantasma,480,70,80,70,80,70,110,4,"Congela a sus enemigos con un aliento gélido de
+-50 °C. Su cuerpo está hueco."
+479,Rotom,Electrico,Fantasma,440,50,50,77,95,77,91,4,"Desde hace mucho tiempo se estudia su singular
+motor como fuente de energía motriz."
+480,Uxie,Psiquico,,580,75,75,130,75,130,95,4,"Se le conoce como el Ser de la Sabiduría. Se dice que
+puede borrar la memoria con una mirada."
+481,Mesprit,Psiquico,,580,80,105,105,105,105,80,4,"Se le conoce como el Ser de la Emoción. Enseñó a los
+humanos la nobleza del dolor y la alegría."
+482,Azelf,Psiquico,,580,75,125,70,125,70,115,4,"Se le conoce como el Ser de la Voluntad. Duerme en
+el fondo de un lago para equilibrar el mundo."
+483,Dialga,Acero,Dragon,680,100,120,120,150,100,90,4,"Un Pokémon de leyenda. Se dice que el tiempo
+comenzó a avanzar cuando Dialga nació."
+484,Palkia,Agua,Dragon,680,90,120,100,150,120,100,4,"Se dice que vive en una dimensión espacial paralela.
+Aparece en la mitología."
+485,Heatran,Fuego,Acero,600,91,90,106,130,106,77,4,"Habita cuevas volcánicas. Cava con sus pies en forma
+de cruz para trepar por techos y paredes."
+486,Regigigas,Normal,,670,110,160,110,80,110,100,4,"Se dice que usó rocas, magma y un hielo especial de
+montaña para crear Pokémon con su aspecto."
+487,Giratina,Fantasma,Dragon,680,150,100,120,100,120,90,4,"Vive en el Mundo Distorsión, un mundo opuesto al
+nuestro y cuyas leyes desafían el sentido común."
+488,Cresselia,Psiquico,,600,120,70,120,75,130,85,4,"Sus alas emiten un velo de partículas brillantes. Se
+dice que representa un cuarto lunar."
+489,Phione,Agua,,480,80,80,80,80,80,80,4,"Si sube la temperatura del mar, infla el flotador de su
+cabeza y flota en grupo en la superficie."
+490,Manaphy,Agua,,600,100,100,100,100,100,100,4,"Nace con un maravilloso poder que le permite
+establecer vínculos con cualquier tipo de Pokémon."
+491,Darkrai,Siniestro,,600,70,90,90,135,90,125,4,"Defiende su territorio de personas y Pokémon
+haciéndoles dormir y provocándoles pesadillas."
+492,Shaymin,Planta,,600,100,100,100,100,100,100,4,"Puede disolver las toxinas del aire para transformar
+tierra yerma en campos de flores."
+493,Arceus,Normal,,720,120,120,120,120,120,120,4,"Según la mitología de Sinnoh, Arceus surgió de un
+huevo y después creó todo el mundo."
+494,Victini,Psiquico,Fuego,600,100,100,100,100,100,100,5,"Pokémon que atrae la victoria. Dicen que el
+Entrenador que lo lleve saldrá vencedor de
+cualquier batalla."
+495,Snivy,Planta,,308,45,45,55,45,55,63,5,"Cuando recibe los rayos de sol, se mueve mucho más
+rápido que de costumbre. Usa mejor sus lianas que
+sus manos."
+496,Servine,Planta,,413,60,60,75,60,75,83,5,"Parece que se desliza al correr. Engaña a sus rivales
+con su velocidad y los fustiga con su látigo."
+497,Serperior,Planta,,528,75,75,95,75,95,113,5,"Tan solo muestra su verdadero poder a quienes no se
+amedrentan ante su noble pero inquisitoria mirada."
+498,Tepig,Fuego,,308,65,63,45,45,45,45,5,"Evita con agilidad los ataques enemigos. Lanza bolas
+de fuego por su hocico y tuesta bayas del bosque para
+comer."
+499,Pignite,Fuego,Lucha,418,90,93,55,70,55,55,5,"Cuanto más come, más combustible tiene en su interior
+para avivar sus llamas, con lo que también aumenta su
+poder."
+500,Emboar,Fuego,Lucha,528,110,123,65,100,65,65,5,"Calienta sus puños con las llamas de su barbilla para
+propinar puñetazos ardientes. Es muy fiel a sus
+compañeros."
+501,Oshawott,Agua,,308,55,55,45,63,45,45,5,"La vieira de su ombligo no solo sirve como arma, sino
+también como instrumento para cortar las bayas que
+estén duras."
+502,Dewott,Agua,,413,75,75,60,83,60,60,5,"Gran espadachín. Utiliza sus dos vieiras con soltura al
+ejecutar las técnicas que aprende con una disciplina
+espartana."
+503,Samurott,Agua,,528,95,100,85,108,70,70,5,"En un abrir y cerrar de ojos, puede desenvainar y
+envainar los sables que hay en sus patas delanteras."
+504,Patrat,Normal,,255,45,55,39,35,39,42,5,"Almacena víveres en unas bolsas en sus mofletes y
+vigila durante días. Hace señales con la cola a sus
+compañeros."
+505,Watchog,Normal,,420,60,85,69,60,69,77,5,"Los componentes luminiscentes de su interior hacen
+que sus ojos y su cuerpo brillen, y así intimida a sus
+rivales."
+506,Lillipup,Normal,,275,45,60,45,25,45,55,5,"Los mechones que cubren su cara actúan como un
+magnífico radar para detectar con precisión lo que hay
+a su alrededor."
+507,Herdier,Normal,,370,65,80,65,35,65,60,5,"Este Pokémon es muy leal. No solo ayuda a
+Entrenadores, sino que también se preocupa por
+otros Pokémon."
+508,Stoutland,Normal,,500,85,110,90,45,90,80,5,"Socorre a humanos perdidos en montañas azotadas
+por ventiscas. Su largo pelaje le protege del frío."
+509,Purrloin,Siniestro,,281,41,50,37,50,37,66,5,"Distrae a su oponente con movimientos gráciles y
+sustrae sus pertenencias. Cuando se enfada, ataca
+con las garras."
+510,Liepard,Siniestro,,446,64,88,50,88,50,106,5,"Su bella y grácil silueta le viene dada por su
+desarrollada musculatura, que le permite andar de
+noche sin hacer ruido."
+511,Pansage,Planta,,316,50,53,48,53,48,64,5,"Comparte las hojas de su cabeza con Pokémon
+agotados. Posee la facultad de aliviar el cansancio."
+512,Simisage,Planta,,498,75,98,63,98,63,101,5,"Ataca estampando las espinas de su cola en el
+enemigo. Es un Pokémon con mucho temperamento."
+513,Pansear,Fuego,,316,50,53,48,53,48,64,5,"Pokémon muy inteligente que tiene la costumbre de
+tostar las bayas antes de comérselas. Ayuda mucho
+a los humanos."
+514,Simisear,Fuego,,498,75,98,63,98,63,101,5,"Achicharra a sus enemigos desprendiendo llamas
+por la cola y la cabeza, fruto de su desmesurado
+calor interno."
+515,Panpour,Agua,,316,50,53,48,53,48,64,5,"El agua acumulada en su mata de pelo es rica en
+nutrientes. Usa su cola para regar plantas con esa
+misma agua."
+516,Simipour,Agua,,498,75,98,63,98,63,101,5,"Cuando lanza agua a alta presión con su cola, puede
+incluso resquebrajar una pared de cemento."
+517,Munna,Psiquico,,292,76,25,45,67,55,24,5,"Cuando un humano o un Pokémon sufre una pesadilla,
+Munna se aparece ante ellos y la engulle."
+518,Musharna,Psiquico,,487,116,55,85,107,95,29,5,"Multitud de sueños de humanos y Pokémon se
+encuentran atrapados en el humo que despide por
+su frente."
+519,Pidove,Normal,Volador,264,50,55,50,36,30,43,5,"Es un Pokémon muy despistado. Aunque reciba
+órdenes de su Entrenador, se le olvidan, y se queda
+esperando."
+520,Tranquill,Normal,Volador,358,62,77,62,50,42,65,5,"Según los rumores, en lo más profundo del bosque
+donde mora Tranquill, hay un mundo pacífico y exento
+de luchas."
+521,Unfezant,Normal,Volador,488,80,115,80,65,55,93,5,"El macho amenaza al enemigo meciendo el adorno de
+su cabeza. Al volar, la hembra es mucho más diestra
+que el macho."
+522,Blitzle,Electrico,,295,45,60,32,50,32,76,5,"Aparece cuando nubes envueltas en rayos encapotan
+el cielo. Atrapa rayos con su crin y almacena
+electricidad."
+523,Zebstrika,Electrico,,497,75,100,63,80,63,116,5,"Es un Pokémon con mucho temperamento. Cuando se
+enoja, lanza rayos desde su crin en todas direcciones."
+524,Roggenrola,Roca,,280,55,75,85,25,25,15,5,"Su oreja tiene forma hexagonal. Su cuerpo fue
+comprimido bajo tierra. Por eso, es duro como el
+acero."
+525,Boldore,Roca,,390,70,105,105,50,40,20,5,"La energía que no puede contener en el interior de
+su cuerpo se escapa formando cristales naranjas."
+526,Gigalith,Roca,,515,85,135,130,60,80,25,5,"Absorbe los rayos solares, procesa esa energía en su
+núcleo y lanza poderosas bolas de luz a sus enemigos."
+527,Woobat,Psiquico,Volador,313,55,45,43,55,43,72,5,"Vive en bosques oscuros y cavernas. Emite
+ultrasonidos por la nariz para saber todo lo que
+pasa a su alrededor."
+528,Swoobat,Psiquico,Volador,425,67,57,55,77,55,114,5,"Cuando emite ondas ultrasónicas, que incluso pueden
+reventar el cemento, agita su cola con vehemencia."
+529,Drilbur,Tierra,,328,60,85,40,30,45,68,5,"Cuando junta las garras y comienza a dar vueltas
+frenéticas, avanza bajo tierra a gran velocidad."
+530,Excadrill,Tierra,Acero,508,110,135,60,50,65,88,5,"Su taladro ha evolucionado y es capaz de atravesar
+una lámina de hierro. Es muy útil para construir
+túneles."
+531,Audino,Normal,,445,103,60,86,60,86,50,5,"Con las antenas de sus oídos, perciben el estado de
+un rival o predicen cuándo va a eclosionar un Huevo
+Pokémon."
+532,Timburr,Lucha,,305,75,80,55,25,35,35,5,"Siempre lleva vigas de madera. Normalmente ayuda
+en obras de construcción."
+533,Gurdurr,Lucha,,405,85,105,85,40,50,40,5,"Gracias a su entrenada musculatura, puede blandir
+vigas de acero sin problema para así derribar edificios
+enteros."
+534,Conkeldurr,Lucha,,505,105,140,95,55,65,45,5,"Se cree que Conkeldurr enseñó a los humanos
+la técnica para elaborar cemento hace más de
+2000 años."
+535,Tympole,Agua,,294,50,50,40,50,40,64,5,"Emite sonidos imperceptibles para los humanos con la
+vibración de sus mejillas y advierte de algún peligro a
+los suyos."
+536,Palpitoad,Agua,Tierra,384,75,65,55,65,55,69,5,"Cuando hace vibrar el bulto de su cabeza, no solo se
+embravece el mar, sino que la tierra también tiembla."
+537,Seismitoad,Agua,Tierra,509,105,95,75,85,75,74,5,"Aumenta la potencia de sus puñetazos haciendo vibrar
+sus puños. Es capaz de quebrar una roca de un solo
+golpe."
+538,Throh,Lucha,,465,120,100,85,30,85,45,5,"Aumenta su potencia si se aprieta el cinturón. Un
+Throh salvaje teje su propio cinturón usando lianas."
+539,Sawk,Lucha,,465,75,125,75,30,75,85,5,"Para lograr dominar las técnicas de kárate más letales,
+se retiran a las montañas y entrenan día y noche."
+540,Sewaddle,Bicho,Planta,310,45,53,70,40,60,42,5,"Recorta hojas y las teje con el líquido viscoso que
+segrega por la boca para hacerse su propia ropa."
+541,Swadloon,Bicho,Planta,380,55,63,90,50,80,42,5,"La vegetación abunda en los bosques que habita. Este
+Pokémon transforma las hojas caídas en nutrientes."
+542,Leavanny,Bicho,Planta,500,75,103,80,70,80,92,5,"Si se encuentra con un Pokémon joven, segrega por la
+boca hilos pegadizos con los que le teje una prenda
+de ropa."
+543,Venipede,Bicho,Veneno,260,30,45,59,30,39,57,5,"Percibe su entorno con su sentido del tacto, residente
+en su cabeza y cola. Su carácter es violento por
+naturaleza."
+544,Whirlipede,Bicho,Veneno,360,40,55,99,40,79,47,5,"Lo protege un duro caparazón. Gira como una rueda y
+realiza brutales placajes contra sus enemigos."
+545,Scolipede,Bicho,Veneno,485,60,100,89,55,69,112,5,"Atenaza a sus presas con las garras que sobresalen de
+su cuello hasta que no se pueden mover y las remata
+con veneno."
+546,Cottonee,Planta,Hada,280,40,27,60,37,50,66,5,"Despide motas de algodón cuando lo atacan para
+confundir a los enemigos y poner pies en polvorosa."
+547,Whimsicott,Planta,Hada,480,60,67,85,77,75,116,5,"Aparecen en medio de un torbellino y entran en las
+casas para descolocar los muebles o esparcir algodón
+por doquier."
+548,Petilil,Planta,,280,45,35,50,70,50,30,5,"Mordisquear las hojas de su cabeza permite recuperar
+toda la vitalidad, a pesar de que están muy amargas."
+549,Lilligant,Planta,,480,70,60,75,110,75,90,5,"El aroma de la flor de su tocado relaja a cualquiera a
+su alrededor. Hay que cuidarle mucho para que no se
+marchite."
+550,Basculin,Agua,,460,70,92,65,80,55,98,5,"Los de color azul y los de color rojo siempre se
+pelean. Son muy violentos, pero su sabor es
+excepcional."
+551,Sandile,Tierra,Siniestro,292,50,72,35,35,35,65,5,"Se desplaza hundido en la arena, dejando al
+descubierto solo los ojos y la nariz. Una membrana
+negra le protege los ojos."
+552,Krokorok,Tierra,Siniestro,351,60,82,45,45,45,74,5,"Viven en manadas. La membrana que cubre sus ojos
+los protege de la arena."
+553,Krookodile,Tierra,Siniestro,519,95,117,80,65,70,92,5,"Un Pokémon bastante violento. Ataca todo lo que se
+mueva delante de él con sus mortíferas mandíbulas."
+554,Darumaka,Fuego,,315,70,90,45,15,45,50,5,"Como sus excrementos están muy calientes, la gente
+de antaño se los metía en los bolsillos para calentarse."
+555,Darmanitan,Fuego,,480,105,140,55,30,55,95,5,"Cuando resulta gravemente herido, se endurece como
+una piedra y medita para agudizar la mente."
+556,Maractus,Planta,,461,75,86,67,106,67,60,5,"Espanta a los Pokémon pájaro con un baile rápido y
+haciendo ruido para evitar que picoteen las semillas de
+sus flores."
+557,Dwebble,Bicho,Roca,325,50,65,85,35,35,55,5,"Abre un agujero en la roca y vive en él. Si la roca se
+resquebraja, no se queda tranquilo hasta que no
+encuentra otra."
+558,Crustle,Bicho,Roca,475,70,95,125,65,75,45,5,"Su inmensa capacidad motriz le permite desplazarse
+cargando a sus espaldas rocas enormes durante días."
+559,Scraggy,Siniestro,Lucha,348,50,75,70,35,70,48,5,"Se sube la piel hasta el cuello para defenderse. Su
+elasticidad, similar a la de una goma, reduce el daño
+recibido."
+560,Scrafty,Siniestro,Lucha,488,65,90,115,45,115,58,5,"Se protege de los ataques con la muda de su piel
+mientras reparte patadas. Cuanto mayor es su cresta,
+más se le respeta."
+561,Sigilyph,Psiquico,Volador,490,72,58,80,103,80,97,5,"Fue la deidad protectora de una ciudad milenaria.
+Ataca con su poder psíquico a los enemigos que
+invaden su territorio."
+562,Yamask,Fantasma,,303,38,30,85,55,65,30,5,"Almas de humanos sepultados en tumbas que han
+adquirido forma de Pokémon. Recuerdan su vida antes
+de la muerte."
+563,Cofagrigus,Fantasma,,483,58,50,145,95,105,30,5,"Se comenta que engulle a todo humano que se le
+acerca y lo momifica. Su comida favorita son las
+pepitas de oro."
+564,Tirtouga,Agua,Roca,355,54,78,103,53,45,22,5,"Ya pululaba por las aguas hace 100 millones de años.
+También va a tierra a veces en busca de alimento."
+565,Carracosta,Agua,Roca,495,74,108,133,83,65,32,5,"Vive en el mar y en la superficie. Sus garras pueden
+abrir un agujero en el fondo de un petrolero."
+566,Archen,Roca,Volador,401,55,112,45,74,45,70,5,"Pokémon que renació de un fósil. Dicen que es el
+antepasado de todos los Pokémon pájaro."
+567,Archeops,Roca,Volador,567,75,140,65,112,65,110,5,"Levanta el vuelo tras coger carrerilla. Coopera con sus
+compañeros de bandada para atrapar a sus presas."
+568,Trubbish,Veneno,,329,50,50,62,40,62,65,5,"Pokémon nacido de la reacción química entre una
+bolsa de basura y residuos industriales."
+569,Garbodor,Veneno,,474,80,95,82,60,82,75,5,"Apresa a su rival con el brazo izquierdo y le da el
+golpe de gracia exhalando por la boca un apestoso
+gas venenoso."
+570,Zorua,Siniestro,,330,40,65,40,80,40,65,5,"Adopta la apariencia de su enemigo para engañarlo
+vilmente y aprovecha su estupor para poner tierra por
+medio."
+571,Zoroark,Siniestro,,510,60,105,60,120,60,105,5,"Tiene la facultad de confundir a muchos humanos a la
+vez. Protege su guarida creando un paisaje ilusorio."
+572,Minccino,Normal,,300,55,50,40,40,40,75,5,"Se saludan entre sí frotándose con la cola y
+limpiándose a conciencia."
+573,Cinccino,Normal,,470,75,95,60,65,60,115,5,"El pelo que cubre su cuerpo proporciona una
+agradable sensación al tocarlo. No acumula ni polvo
+ni electricidad estática."
+574,Gothita,Psiquico,,290,45,30,50,55,65,45,5,"Amplifica su poder psíquico con sus antenitas en forma
+de lazo. Siempre está mirando algo fijamente."
+575,Gothorita,Psiquico,,390,60,45,70,75,85,55,5,"La luz de las estrellas origina su poder. De noche,
+marca su posición haciendo levitar piedras con su
+poder psíquico."
+576,Gothitelle,Psiquico,,490,70,55,95,95,110,65,5,"Su inmenso poder psíquico distorsiona el espacio y
+le permite reflejar incluso estrellas a años luz de
+distancia."
+577,Solosis,Psiquico,,290,45,30,40,105,50,20,5,"Gracias a la sustancia viscosa que envuelve su cuerpo,
+permanece tranquilo por dura o rigurosa que sea la
+situación."
+578,Duosion,Psiquico,,370,65,40,50,125,60,30,5,"Cuando las dos partes de su cerebro piensan lo
+mismo, saca todo su poder a relucir."
+579,Reuniclus,Psiquico,,490,110,65,75,125,85,30,5,"Hacen gala de su poder psíquico y mueven sus brazos
+compuestos de líquido para controlar rocas y hacerlas
+añicos."
+580,Ducklett,Agua,Volador,305,62,44,50,44,50,55,5,"Cuando se ve atacado, las plumas que lo recubren
+despiden ráfagas de agua que lo ayudan a escapar."
+581,Swanna,Agua,Volador,473,75,87,63,87,63,98,5,"Aunque no lo parezca por su grácil elegancia, puede
+batir con fuerza las alas y volar durante miles de
+kilómetros."
+582,Vanillite,Hielo,,305,36,50,50,65,60,44,5,"Lanza un aliento de -50 °C. Crea bloques de nieve y
+es capaz de lograr que nieve a su alrededor."
+583,Vanillish,Hielo,,395,51,65,65,80,75,59,5,"Enfrían el aire a su alrededor y crean partículas de
+hielo mediante las cuales congelan a sus oponentes."
+584,Vanilluxe,Hielo,,535,71,95,85,110,95,79,5,"Si sus dos cabezas se irritan al mismo tiempo, genera
+una ventisca desde su cuerno cubriendo su entorno
+con nieve."
+585,Deerling,Normal,Planta,335,60,60,50,40,50,75,5,"El color de su cuerpo cambia no solo con las
+estaciones, sino también con los cambios de humedad
+y temperatura."
+586,Sawsbuck,Normal,Planta,475,80,100,70,60,70,95,5,"Cambia de morada dependiendo de las estaciones.
+Observando sus cuernos, la gente sabe cuándo estas
+van a cambiar."
+587,Emolga,Electrico,Volador,428,55,75,60,75,60,103,5,"Vive en la copa de los árboles. Produce descargas
+mientras vuela con el interior de la membrana que hace
+de capa."
+588,Karrablast,Bicho,,315,50,75,45,40,45,60,5,"Si recibe un estímulo eléctrico al estar en contacto con
+un Shelmet, evoluciona."
+589,Escavalier,Bicho,Acero,495,70,135,105,60,105,20,5,"Se defienden de los ataques con el caparazón que
+roban a los Shelmet. Atacan con sus dos mortíferas
+lanzas."
+590,Foongus,Planta,Veneno,294,69,55,45,55,55,15,5,"Gracias a su misterioso parecido a una Poké Ball, atrae
+a sus presas y lanza rápidamente esporas de veneno."
+591,Amoonguss,Planta,Veneno,464,114,85,70,85,80,30,5,"Aunque intenta pasar por parte superior de una
+Poké Ball para atraer a sus presas, consigue engañar
+a pocos."
+592,Frillish,Agua,Fantasma,335,55,40,50,65,85,40,5,"Paraliza a sus presas con veneno y las lleva a su
+morada, que se encuentra a 8000 m en el fondo del
+mar."
+593,Jellicent,Agua,Fantasma,480,100,60,70,85,105,60,5,"Su cuerpo se compone de agua salada. Dicen que ha
+construido un palacio en el fondo del mar con restos
+de barcos."
+594,Alomomola,Agua,,470,165,75,80,40,45,65,5,"Vive flotando a la deriva en mar abierto. Siempre que
+encuentra un Pokémon herido, lo abraza y lo lleva a la
+costa."
+595,Joltik,Bicho,Electrico,319,50,47,50,57,50,65,5,"No puede generar electricidad por sí mismo, así que se
+encarama a Pokémon grandes y absorbe su energía
+estática."
+596,Galvantula,Bicho,Electrico,472,70,77,60,97,60,108,5,"Pone trampas con hilos electrificados. De este modo,
+electrocuta a sus enemigos y los inmoviliza por
+completo."
+597,Ferroseed,Planta,Acero,305,44,50,91,24,86,10,5,"Lanza numerosas púas al detectar peligro. En cuanto
+tiene ocasión, echa a rodar y se escapa."
+598,Ferrothorn,Planta,Acero,489,74,94,131,54,116,20,5,"Azota al enemigo con sus tres tentáculos y después
+dispara púas hasta que no deja ni rastro del rival."
+599,Klink,Acero,,300,40,55,70,45,60,30,5,"Genera la energía vital que necesita haciendo girar sus
+dos cuerpos."
+600,Klang,Acero,,440,60,80,95,70,85,50,5,"Muestra sus sentimientos cambiando la dirección de su
+giro. Cuanto más se enfade, más rápido girará."
+601,Klinklang,Acero,,520,60,100,115,70,85,90,5,"Recarga su energía rápidamente haciendo girar con
+gran celeridad el engranaje equipado con un núcleo
+rojo."
+602,Tynamo,Electrico,,275,35,55,40,45,40,60,5,"La electricidad de uno solo es diminuta, pero, si
+multitud de Tynamo se conectan, consiguen la
+potencia de un rayo."
+603,Eelektrik,Electrico,,405,65,85,70,75,70,40,5,"Se enrolla alrededor de su presa, la paraliza con la
+electricidad de sus marcas circulares y le asesta
+mordiscos."
+604,Eelektross,Electrico,,515,85,115,80,105,80,50,5,"Pega la ventosa de su boca en su presa y la
+electrocuta con sus colmillos."
+605,Elgyem,Psiquico,,335,55,55,55,85,55,30,5,"Posee un gran poder psíquico. Lo usa para comprimir
+el cerebro del enemigo y ocasionarle dolores de
+cabeza."
+606,Beheeyem,Psiquico,,485,75,75,75,125,95,40,5,"Parece que se comunica haciendo brillar sus dedos
+tricolores, pero nadie ha conseguido descifrar aún su
+patrón."
+607,Litwick,Fantasma,Fuego,275,50,30,55,65,55,20,5,"Finge ser una luz guía en el camino, pero en realidad
+solo quiere absorber la energía vital de quien lo sigue."
+608,Lampent,Fantasma,Fuego,370,60,40,60,95,60,55,5,"Al absorber almas, su llama se enciende. Espera a que
+la gente fallezca, así que suele deambular por los
+hospitales."
+609,Chandelure,Fantasma,Fuego,520,60,55,90,145,90,80,5,"Sus llamas absorben el alma del enemigo y la abrasan,
+dejando solo su cuerpo inerte."
+610,Axew,Dragon,,320,46,87,60,30,40,57,5,"Usa sus colmillos para romper las bayas que come.
+Estos se regeneran una y otra vez, por eso son tan
+fuertes y afilados."
+611,Fraxure,Dragon,,410,66,117,70,40,50,67,5,"Sus colmillos pueden hacer añicos rocas inmensas. Las
+luchas territoriales de los Fraxure son encarnizadas."
+612,Haxorus,Dragon,,540,76,147,90,60,70,97,5,"Es gentil, pero no perdona a todo el que ose invadir
+su territorio. Su mayor baza son sus colmillos, que
+cortan el acero."
+613,Cubchoo,Hielo,,305,55,70,40,60,40,40,5,"Siempre está con mucosidades colgando. Las aspira
+para hacer un movimiento, ya que son su materia prima
+para esto."
+614,Beartic,Hielo,,485,95,110,80,70,80,50,5,"Adoran los mares gélidos del norte. Congelan su
+aliento para crear sendas por las que caminar sobre
+las aguas."
+615,Cryogonal,Hielo,,485,70,50,30,95,135,105,5,"Nació entre nubes de nieve. Atrapa a sus presas con
+una cadena hecha de hielo cristalizado."
+616,Shelmet,Bicho,,305,50,40,85,40,65,25,5,"Si está junto a Karrablast, y ambos reciben una
+descarga eléctrica, evolucionan los dos a la vez."
+617,Accelgor,Bicho,,495,80,70,40,100,60,145,5,"Se siente ligero una vez liberado de su caparazón.
+Lucha y se mueve como un ninja."
+618,Stunfisk,Tierra,Electrico,471,109,66,84,81,99,32,5,"Ni un pisotón de un luchador de sumo lo aplastaría
+gracias a su piel sólida. Sonríe al soltar descargas
+eléctricas."
+619,Mienfoo,Lucha,,350,45,85,50,55,50,65,5,"La velocidad de sus ataques es su gran orgullo. Lo
+que le falta de fuerza bruta lo compensa en cantidad
+de golpes."
+620,Mienshao,Lucha,,510,65,125,60,95,60,105,5,"Usa el pelaje de sus brazos a manera de látigos.
+Sus ataques alcanzan velocidades de vértigo."
+621,Druddigon,Dragon,,485,77,120,90,60,90,48,5,"Corre por estrechas cavernas y atrapa a sus presas con
+sus afiladas garras. La piel de la cara es más dura que
+una roca."
+622,Golett,Tierra,Fantasma,303,59,74,50,35,50,35,5,"Se mueve gracias a la energía que quema dentro de su
+cuerpo, pero el origen de esta energía es incierto."
+623,Golurk,Tierra,Fantasma,483,89,124,80,55,80,55,5,"Al parecer, aquel que antaño lo creó le ordenó
+proteger a los Pokémon y a los humanos."
+624,Pawniard,Siniestro,Acero,340,45,85,70,40,40,60,5,"Su cuerpo está provisto de hojas afiladas. Cuando se
+desgastan, las afila con cantos rodados a la orilla del
+río."
+625,Bisharp,Siniestro,Acero,490,65,125,100,60,70,70,5,"Un Pokémon temible que remata a su presa una vez
+que su séquito de Pawniard la ha debilitado e
+inmovilizado."
+626,Bouffalant,Normal,,490,95,110,95,40,95,55,5,"Embiste con la cabeza sin distinción. Su potencia es
+capaz de hacer descarrilar un tren en marcha."
+627,Rufflet,Normal,Volador,350,70,83,50,37,50,60,5,"Quiebra bayas con sus extremidades. Se enfrenta con
+valentía a todo enemigo por fuerte que este sea."
+628,Braviary,Normal,Volador,510,100,123,75,57,75,80,5,"Un valiente guerrero del cielo que no duda en luchar
+por sus compañeros por graves que sean sus heridas."
+629,Vullaby,Siniestro,Volador,370,70,55,75,45,65,60,5,"No puede volar porque sus alas son muy pequeñas.
+Cuando va a evolucionar, se deshace de su calavera."
+630,Mandibuzz,Siniestro,Volador,510,110,65,105,55,95,80,5,"Vuela en círculos. Cuando avista una presa, la ataca y
+la transporta a su nido con suma facilidad."
+631,Heatmor,Fuego,,484,85,97,66,105,66,65,5,"Usa su lengua de fuego para derretir la armadura de
+acero de los Durant y llegar así hasta su interior."
+632,Durant,Bicho,Acero,484,58,109,112,48,48,109,5,"Actúan en grupo para expulsar de sus colonias a los
+Heatmor, sus depredadores naturales."
+633,Deino,Siniestro,Dragon,300,52,65,50,45,50,38,5,"No ve, por eso va haciendo placajes y dando
+mordiscos a diestro y siniestro. Su cuerpo está
+plagado de heridas."
+634,Zweilous,Siniestro,Dragon,420,72,85,70,65,70,58,5,"Sus dos cabezas se llevan fatal, y la que consigue
+comer más que la otra es la que lleva la voz cantante."
+635,Hydreigon,Siniestro,Dragon,600,92,105,90,125,90,98,5,"Las cabezas de sus dos brazos no tienen cerebro. Con
+sus tres cabezas destruye y devora todo a su paso."
+636,Larvesta,Bicho,Fuego,360,55,85,55,50,55,60,5,"Se dice que nació del sol. Al evolucionar, cubre su
+cuerpo con llamas que brotan de sus cuernos."
+637,Volcarona,Bicho,Fuego,550,85,60,65,135,105,100,5,"Cuando combate, despide escamas ardientes de sus
+seis alas y genera un mar ígneo a su alrededor."
+638,Cobalion,Acero,Lucha,580,91,90,129,90,72,108,5,"Posee un cuerpo y un corazón de acero. Basta una
+mirada suya para que Pokémon violentos le
+obedezcan."
+639,Terrakion,Roca,Lucha,580,91,129,90,72,90,108,5,"Su potencia al embestir es capaz de derribar las
+murallas de un castillo. Las leyendas hablan de sus
+proezas."
+640,Virizion,Planta,Lucha,580,91,90,72,90,129,108,5,"Sus cuernos son hojas afiladas. Sacude a sus
+enemigos con sus relampagueantes movimientos y
+los reduce."
+641,Tornadus,Volador,,580,79,100,80,110,90,121,5,"La parte inferior de su cuerpo, similar a una nube, está
+recubierta de un campo de energía. Vuela a 300 km/h."
+642,Thundurus,Electrico,Volador,580,79,115,70,125,80,111,5,"Lanza descargas eléctricas por las púas de su cola.
+Sobrevuela Teselia dejando caer rayos."
+643,Reshiram,Dragon,Fuego,680,100,120,100,150,120,90,5,"Pokémon legendario capaz de abrasar el mundo con
+sus llamas. Ayuda a quienes persiguen un mundo
+veraz."
+644,Zekrom,Dragon,Electrico,680,100,150,120,120,100,90,5,"Pokémon legendario capaz de chamuscar el mundo
+con sus rayos. Ayuda a quienes persiguen un mundo
+de ideales."
+645,Landorus,Tierra,Volador,600,89,125,90,115,80,101,5,"Lo consideran una deidad de las cosechas porque los
+cultivos crecen en abundancia en las tierras por las
+que pasa."
+646,Kyurem,Dragon,Hielo,660,125,130,90,130,90,95,5,"Pokémon legendario que aguarda al héroe que
+compense el vacío de su cuerpo de hielo con verdad
+e ideales."
+647,Keldeo,Agua,Lucha,580,91,72,90,129,90,108,5,"Corre por mares, ríos o cualquier superficie acuática de
+todo el mundo. Aparece en aguas límpidas."
+648,Meloetta,Normal,Psiquico,600,100,77,77,128,128,90,5,"Las melodías que canta Meloetta tienen el poder de
+hacer sentir felicidad a los Pokémon que hay a su
+alrededor."
+649,Genesect,Bicho,Acero,600,71,120,95,120,95,99,5,"Pokémon de tipo Bicho de la antigüedad, modificado
+por el Equipo Plasma. El cañón de su lomo ha sido
+mejorado."
+650,Chespin,Planta,,313,56,61,65,48,45,38,6,"Cuando acumula energía, las suaves púas de su
+cabeza se vuelven tan duras y afiladas que hasta
+pueden atravesar rocas."
+651,Quilladin,Planta,,405,61,78,95,56,58,57,6,"Desvía los ataques de los enemigos con la robusta
+coraza que cubre su cuerpo y contraataca con sus
+dos afilados cuernos."
+652,Chesnaught,Planta,Lucha,530,88,107,122,74,75,64,6,"Su fuerza es tal que, de un empellón, puede hacer
+volcar un tanque de 50 toneladas. Protege a sus
+aliados cuando hace de escudo."
+653,Fennekin,Fuego,,307,40,45,40,62,60,60,6,"Tras masticar e ingerir pequeñas ramas se siente
+pletórico y expulsa aire caliente por sus grandes
+orejas a temperaturas superiores a los 200 ºC."
+654,Braixen,Fuego,,409,59,59,58,90,70,73,6,"Tiene una rama enredada en la cola. Cuando la saca,
+la rama prende fuego al hacer fricción con su pelaje
+y se lanza al ataque con ella."
+655,Delphox,Fuego,Psiquico,534,75,69,72,114,100,104,6,"Fija la mirada en la llama que arde en la punta de su
+bastón para concentrarse y prever sucesos que
+tienen lugar en el futuro."
+656,Froakie,Agua,,314,41,56,40,62,44,71,6,"Secreta burbujas tanto por la espalda como
+por el pecho. Gracias a la elasticidad de estas,
+puede parar ataques y reducir el daño recibido."
+657,Frogadier,Agua,,405,54,63,52,83,56,97,6,"Puede lanzar piedras envueltas en burbujas con tal
+puntería, que acierta latas vacías a 30 metros de
+distancia."
+658,Greninja,Agua,Siniestro,530,72,95,67,103,71,122,6,"Comprime el agua y crea estrellas ninja con las que
+ataca al enemigo. Cuando las hace girar a gran
+velocidad cortan en dos hasta el metal."
+659,Bunnelby,Normal,,237,38,36,38,32,36,57,6,"Usa sus grandes orejas para excavar en la tierra y así
+crear madrigueras. Puede pasarse una noche entera
+cavando sin parar."
+660,Diggersby,Normal,Tierra,423,85,56,77,50,77,78,6,"Sus grandes orejas tienen tal fuerza que con ellas
+puede levantar con facilidad rocas de más de una
+tonelada. Es de una ayuda inestimable en las obras."
+661,Fletchling,Normal,Volador,278,45,50,43,40,38,62,6,"Es muy amigable y se comunica con sus aliados
+mediante melodiosos gorjeos y el movimiento de su
+cola y sus gráciles alas."
+662,Fletchinder,Fuego,Volador,382,62,73,55,56,52,84,6,"Lanza chispas por su pico y prende fuego a la hierba
+alta para así sorprender a sus presas y atraparlas
+cuando intentan escapar."
+663,Talonflame,Fuego,Volador,499,78,81,71,74,69,126,6,"Si se exalta durante un combate reñido, arroja chispas
+y ascuas de los intersticios entre su plumaje
+mientras vuela."
+664,Scatterbug,Bicho,,200,38,35,40,27,25,35,6,"Cuando recibe el ataque de un Pokémon pájaro,
+expulsa unas escamas negras que provocan parálisis
+si se entra en contacto con ellas."
+665,Spewpa,Bicho,,213,45,22,60,27,30,29,6,"Habita en la sombra de la espesura. Si percibe alguna
+amenaza, su pelaje se eriza y se vuelve muy afilado
+para así intimidar al enemigo."
+666,Vivillon,Bicho,Volador,411,80,52,50,90,50,89,6,"En el mundo existen Vivillon con diferentes motivos en
+sus alas. El clima de cada región influye en sus rasgos."
+667,Litleo,Fuego,Normal,369,62,50,58,73,54,72,6,"Cuanto más poderoso es el enemigo al que se
+enfrenta, más calor desprende su mechón y más
+energía recorre todo su cuerpo."
+668,Pyroar,Fuego,Normal,507,86,68,72,109,66,106,6,"El macho con la melena de fuego más grande de toda
+la manada es el líder de sus compañeros."
+669,Flabébé,Hada,,303,44,38,39,61,79,42,6,"Acumula el polen de las flores para confeccionar
+la tiara que lleva en la cabeza, que cuenta con
+propiedades curativas."
+670,Floette,Hada,,371,54,45,47,75,98,52,6,"Revolotea alrededor de campos de flores y cuida de
+aquellas que empiezan a marchitarse. Usa en combate
+el poder oculto de las flores."
+671,Florges,Hada,,552,78,65,68,112,154,75,6,"Habita en preciosos jardines floridos. Absorbe la
+energía que emiten las plantas y la convierte en su
+fuente de poder."
+672,Skiddo,Planta,,350,66,65,48,62,57,52,6,"Se dice que fue la primera especie de Pokémon que se
+acostumbró a vivir con los seres humanos. Tiene una
+naturaleza muy afable."
+673,Gogoat,Planta,,531,123,100,62,97,81,68,6,"Percibe los sentimientos del Entrenador por la forma
+en la que agarra sus cuernos, aunque sean variaciones
+sutiles, y así avanzan como si fueran un solo ente."
+674,Pancham,Lucha,,348,67,82,62,46,48,43,6,"Se esfuerza mucho para que el enemigo no lo
+menosprecie, pero su mirada no intimida demasiado.
+Se caracteriza por mascar siempre una hoja."
+675,Pangoro,Lucha,Siniestro,495,95,124,78,69,71,58,6,"Es muy temperamental, pero no permite que nadie se
+meta con los débiles. Mediante su hoja, predice los
+movimientos del enemigo."
+676,Furfrou,Normal,,472,75,80,60,65,90,102,6,"Cuando le esquilan su mullido pelaje, no solo mejora
+su apariencia, sino que aumenta su agilidad."
+677,Espurr,Psiquico,,355,62,48,54,63,60,68,6,"Protege con las orejas el órgano con el que irradia su
+intenso poder psíquico para evitar que este se escape
+al exterior."
+678,Meowstic,Psiquico,,466,74,48,76,83,81,104,6,"Cuando percibe peligro, yergue sus orejas y desata un
+poder psíquico capaz de levantar un camión de unas
+10 toneladas."
+679,Honedge,Acero,Fantasma,325,45,80,100,35,37,28,6,"Cuentan que este Pokémon nace cuando el espíritu de
+un difunto toma posesión de una espada antigua.
+Se aferra a las personas y absorbe su energía."
+680,Doublade,Acero,Fantasma,448,59,110,150,45,49,35,6,"Al evolucionar se divide en dos espadas.
+Se comunican entre sí mediante telepatía y
+coordinan los ataques para rebanar al enemigo."
+681,Aegislash,Acero,Fantasma,520,60,150,50,150,50,60,6,"Han permanecido junto a estirpes de reyes durante
+generaciones. Mediante su poder espectral pueden
+controlar a humanos y a Pokémon."
+682,Spritzee,Hada,,341,78,52,60,63,65,23,6,"Su cuerpo emana una fragancia que embelesa a quien
+la huele. La fragancia es diferente según los alimentos
+que ingiere."
+683,Aromatisse,Hada,,462,101,72,72,99,89,29,6,"Puede producir multitud de olores diferentes y, en
+combate, secreta los que le resultan molestos al
+enemigo para así contar con cierta ventaja."
+684,Swirlix,Hada,,341,62,48,66,59,57,49,6,"Escupe hebras pegajosas de color blanco y textura
+parecida a la del algodón de azúcar, con las que
+envuelve al enemigo y le impide que se mueva."
+685,Slurpuff,Hada,,480,82,80,86,85,75,72,6,"Puede rastrear hasta el más débil de los olores. Hace
+uso de su fino olfato para ayudar a los pasteleros más
+exquisitos."
+686,Inkay,Siniestro,Psiquico,288,53,54,53,37,46,45,6,"Los enemigos que contemplan el titilante fulgor de su
+brillante cuerpo terminan mareándose y pierden las
+ganas de continuar combatiendo."
+687,Malamar,Siniestro,Psiquico,482,86,92,88,68,75,73,6,"Tiene a su disposición los poderes hipnóticos más
+poderosos de entre todos los Pokémon. Controla al
+enemigo a su voluntad."
+688,Binacle,Roca,Agua,306,42,52,67,39,56,50,6,"Dos Binacle conviven en la misma roca, pero cuando
+se produce un altercado entre ambos, uno de ellos se
+muda a otra."
+689,Barbaracle,Roca,Agua,500,72,105,115,54,86,68,6,"Al evolucionar, los dos Binacle se dividen y dan lugar
+a siete criaturas que se aglomeran formando un
+Barbaracle y suman su poder al combatir."
+690,Skrelp,Veneno,Agua,320,50,60,60,60,60,30,6,"Adopta la apariencia de algas podridas y lanza un
+líquido venenoso a las presas desprevenidas que
+pasan cerca."
+691,Dragalge,Veneno,Dragon,494,65,75,90,97,123,44,6,"Ataca de manera indiscriminada a quien ose adentrarse
+en su territorio, escupiéndole un virulento veneno
+que puede corroer hasta el casco de un petrolero."
+692,Clauncher,Agua,,330,50,53,62,58,63,44,6,"Abate a enemigos voladores disparando agua a presión
+con su enorme pinza como si de una pistola se tratara."
+693,Clawitzer,Agua,,500,71,73,88,120,89,59,6,"Posee una enorme pinza que dispara bolas de agua
+que podrían atravesar incluso el casco de un petrolero."
+694,Helioptile,Electrico,Normal,289,44,38,33,61,43,70,6,"Habita en los desiertos y, cuando toma el sol, acumula
+energía, lo que le permite vivir sin la necesidad de
+ingerir alimentos."
+695,Heliolisk,Electrico,Normal,481,62,55,52,109,94,109,6,"Extiende su gorguera y genera energía eléctrica
+suficiente para cubrir el consumo de electricidad de
+un rascacielos entero."
+696,Tyrunt,Roca,Dragon,362,58,89,77,45,45,48,6,"Pokémon recreado a partir de fósiles. Cuando sucede
+algo que no es de su agrado, se enfurece y se vuelve
+violento."
+697,Tyrantrum,Roca,Dragon,521,82,121,119,69,59,71,6,"En el mundo antiguo en el que habitaba no tenía
+rivales gracias a sus mandíbulas, con las que podría
+despedazar con facilidad gruesas placas de acero."
+698,Amaura,Roca,Hielo,362,77,59,50,67,63,46,6,"Pokémon que ha sido regenerado a partir de un trozo
+de su antiguo cuerpo, que quedó congelado hace
+unos 100 millones de años."
+699,Aurorus,Roca,Hielo,521,123,77,72,99,92,58,6,"Expulsa un gas gélido a temperaturas inferiores a los
+-150 ºC a través de sus cristales romboides y congela
+así a su enemigo."
+700,Sylveon,Hada,,525,95,65,65,110,130,60,6,"A través de sus apéndices sensitivos con forma de
+cinta, emite unas ondas tranquilizadoras mediante las
+cuales detiene los combates."
+701,Hawlucha,Lucha,Volador,500,78,92,75,74,63,118,6,"A pesar de ser un Pokémon de pequeña estatura,
+su pericia en el combate le permite plantar cara a
+Pokémon como Machamp o Hariyama."
+702,Dedenne,Electrico,Hada,431,67,58,57,81,67,101,6,"Sus bigotes hacen la función de antenas, por lo
+que puede enviar y recibir ondas eléctricas para
+comunicarse a grandes distancias."
+703,Carbink,Roca,Hada,500,50,50,150,50,150,50,6,"Nace en las profundidades subterráneas, a altas
+temperaturas y a gran presión. Irradia energía por
+la roca que tiene en la cabeza."
+704,Goomy,Dragon,,300,45,50,35,55,75,40,6,"Es el Pokémon de tipo Dragón más débil. Habita en
+zonas oscuras y húmedas para evitar que su viscoso
+cuerpo se seque."
+705,Sliggoo,Dragon,,452,68,75,53,83,113,60,6,"Segrega una mucosidad que corroe todo lo que toca
+y consigue así ahuyentar al enemigo. Sus ojos han
+involucionado, por lo que no puede ver."
+706,Goodra,Dragon,,600,90,100,70,110,150,80,6,"Pokémon de tipo Dragón muy afable al que le gusta
+abrazar con efusión a su Entrenador, aunque después
+lo deja totalmente pringado."
+707,Klefki,Acero,Hada,470,57,80,91,80,87,75,6,"Tiene el hábito de coleccionar llaves. Cuando un
+enemigo lo ataca, las hace tintinear como método
+de intimidación."
+708,Phantump,Fantasma,Planta,309,43,70,48,50,60,38,6,"Pokémon que nace cuando un espíritu se adentra en
+un tocón podrido. Habita en bosques que son poco
+frecuentados por humanos."
+709,Trevenant,Fantasma,Planta,474,85,110,76,65,82,56,6,"Puede controlar los árboles a su voluntad. Retiene
+hasta el fin de sus días a los humanos que se adentran
+en el bosque y lo mancillan."
+710,Pumpkaboo,Fantasma,Planta,335,49,66,70,44,55,51,6,"En el interior de la calabaza reside un espíritu que ha
+permanecido atrapado en este mundo. Entra en acción
+al caer la noche."
+711,Gourgeist,Fantasma,Planta,494,65,90,122,58,75,84,6,"En las noches de luna nueva deambula por las calles
+de las ciudades y emite espeluznantes alaridos que
+maldicen a quienes los oyen."
+712,Bergmite,Hielo,,304,55,69,85,32,35,28,6,"Envuelve su cuerpo en una capa de hielo que le
+permite evitar los ataques del enemigo. Si se
+resquebraja, la recompone con aire gélido."
+713,Avalugg,Hielo,,514,95,117,184,44,46,28,6,"Su cuerpo, cubierto de hielo, es tan duro como el
+propio acero. Su abultada figura le permite arramblar
+con todo lo que se encuentra a su paso."
+714,Noibat,Volador,Dragon,245,40,30,35,45,40,55,6,"Habita en cuevas donde reina la más absoluta
+oscuridad y emite ondas ultrasónicas de
+200 000 Hz a través de sus enormes orejas."
+715,Noivern,Volador,Dragon,535,85,70,80,97,80,123,6,"Surca el cielo nocturno cuando ni siquiera la luna brilla
+y ataca a presas incautas. Es imbatible en combates
+que tienen lugar a oscuras."
+716,Xerneas,Hada,,680,126,131,95,131,98,99,6,"Según las leyendas, puede compartir el secreto de la
+vida eterna. Ha despertado tras dormir durante mil
+años bajo la apariencia de un árbol."
+717,Yveltal,Siniestro,Volador,680,126,131,95,131,98,99,6,"Pokémon legendario que, al extender sus alas y las
+plumas de la cola, emite un brillo carmesí que absorbe
+la energía vital de su enemigo."
+718,Zygarde,Dragon,Tierra,600,108,100,121,81,95,95,6,"Cuando el ecosistema de Kalos se encuentra en
+peligro, aparece y revela su poder secreto."
+719,Diancie,Roca,Hada,600,50,100,150,100,150,50,6,"Es una transformación súbita de Carbink. Se dice que
+su cuerpo, que irradia destellos rosados, es lo más
+bonito de este mundo."
+720,Hoopa,Psiquico,Fantasma,600,80,110,60,150,130,70,6,"Este problemático Pokémon envía cualquier objeto a
+lugares remotos mediante unos anillos que deforman
+el espacio."
+721,Volcanion,Fuego,Agua,600,80,110,120,130,90,70,6,"Expulsa vapor y desaparece entre la densa niebla. Dicen que
+habita en montañas solitarias."
